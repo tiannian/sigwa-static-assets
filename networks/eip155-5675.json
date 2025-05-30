@@ -1,1 +1,0 @@
-{"name":"Filenova Testnet","network_type":"eip155","chain_id":"5675","symbol":"tFIL","native_asset":null,"decimals":18,"rpc_urls":["https://rpctest.filenova.org"],"selected_rpc_url":0,"explorers":[{"name":"filenova testnet explorer","url":"https://scantest.filenova.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

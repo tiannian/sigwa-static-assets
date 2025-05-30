@@ -1,1 +1,0 @@
-{"name":"MAP Protocol","network_type":"eip155","chain_id":"22776","symbol":"MAPO","native_asset":"marcopolo","decimals":18,"rpc_urls":["https://rpc.maplabs.io"],"selected_rpc_url":0,"explorers":[{"name":"maposcan","url":"https://maposcan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":60,"icon":"eip155-22776.png"}

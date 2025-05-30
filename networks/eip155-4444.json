@@ -1,1 +1,0 @@
-{"name":"Htmlcoin Mainnet","network_type":"eip155","chain_id":"4444","symbol":"HTML","native_asset":null,"decimals":8,"rpc_urls":["https://janus.htmlcoin.dev/janus","https://janus.htmlcoin.com/api"],"selected_rpc_url":0,"explorers":[{"name":"htmlcoin","url":"https://explorer.htmlcoin.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

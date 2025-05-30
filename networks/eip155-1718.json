@@ -1,1 +1,0 @@
-{"name":"Palette Chain Mainnet","network_type":"eip155","chain_id":"1718","symbol":"PLT","native_asset":null,"decimals":18,"rpc_urls":["https://palette-rpc.com:22000"],"selected_rpc_url":0,"explorers":[{"name":"Palettescan","url":"https://palettescan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

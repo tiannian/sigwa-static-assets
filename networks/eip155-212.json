@@ -1,1 +1,0 @@
-{"name":"MAPO Makalu","network_type":"eip155","chain_id":"212","symbol":"MAPO","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.maplabs.io"],"selected_rpc_url":0,"explorers":[{"name":"maposcan","url":"https://testnet.maposcan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

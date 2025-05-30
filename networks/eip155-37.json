@@ -1,1 +1,0 @@
-{"name":"Xpla Mainnet","network_type":"eip155","chain_id":"37","symbol":"XPLA","native_asset":null,"decimals":18,"rpc_urls":["https://dimension-evm-rpc.xpla.dev"],"selected_rpc_url":0,"explorers":[{"name":"XPLA Explorer","url":"https://explorer.xpla.io/mainnet","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

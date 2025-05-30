@@ -1,1 +1,0 @@
-{"name":"OHO Mainnet","network_type":"eip155","chain_id":"39815","symbol":"OHO","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.oho.ai","https://mainnet-rpc.ohoscan.com","https://mainnet-rpc2.ohoscan.com"],"selected_rpc_url":0,"explorers":[{"name":"ohoscan","url":"https://ohoscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

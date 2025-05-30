@@ -1,1 +1,0 @@
-{"name":"Naga Testnet","network_type":"eip155","chain_id":"1008686","symbol":"Naga","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.nagafintech.com","wss://rpc.nagafintech.com"],"selected_rpc_url":0,"explorers":[{"name":"Naga Explorer Testnet","url":"https://explorer.nagafintech.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

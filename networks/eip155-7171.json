@@ -1,1 +1,0 @@
-{"name":"Bitrock Mainnet","network_type":"eip155","chain_id":"7171","symbol":"BROCK","native_asset":"bitrock","decimals":18,"rpc_urls":["https://connect.bit-rock.io","https://brockrpc.io"],"selected_rpc_url":0,"explorers":[{"name":"Bitrock Explorer","url":"https://brockscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-7171.png"}

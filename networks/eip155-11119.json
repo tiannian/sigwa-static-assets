@@ -1,1 +1,0 @@
-{"name":"HashBit Mainnet","network_type":"eip155","chain_id":"11119","symbol":"HBIT","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.hashbit.org","https://rpc.hashbit.org"],"selected_rpc_url":0,"explorers":[{"name":"hashbitscan","url":"https://explorer.hashbit.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

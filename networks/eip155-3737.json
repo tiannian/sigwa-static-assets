@@ -1,1 +1,0 @@
-{"name":"Crossbell","network_type":"eip155","chain_id":"3737","symbol":"CSB","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.crossbell.io"],"selected_rpc_url":0,"explorers":[{"name":"Crossbell Explorer","url":"https://scan.crossbell.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

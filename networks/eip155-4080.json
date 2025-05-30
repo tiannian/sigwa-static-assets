@@ -1,1 +1,0 @@
-{"name":"Tobe Chain Testnet","network_type":"eip155","chain_id":"4080","symbol":"TOBE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.tobescan.com"],"selected_rpc_url":0,"explorers":[{"name":"tobescan testnet","url":"https://testnet.tobescan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

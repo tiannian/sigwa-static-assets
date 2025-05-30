@@ -1,1 +1,0 @@
-{"name":"Kinto Testnet","network_type":"eip155","chain_id":"42888","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["http://35.215.120.180:8545"],"selected_rpc_url":0,"explorers":[{"name":"kintoscan","url":"http://35.215.120.180:4000","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

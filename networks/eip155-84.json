@@ -1,1 +1,0 @@
-{"name":"Linqto Devnet","network_type":"eip155","chain_id":"84","symbol":"XRP","native_asset":null,"decimals":18,"rpc_urls":["https://linqto-dev.com"],"selected_rpc_url":0,"explorers":[{"name":"Linqto Devnet Explorer","url":"https://explorer.linqto-dev.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

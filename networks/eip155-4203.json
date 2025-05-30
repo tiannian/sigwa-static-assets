@@ -1,1 +1,0 @@
-{"name":"Merlin Erigon Testnet","network_type":"eip155","chain_id":"4203","symbol":"BTC","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-erigon-rpc.merlinchain.io"],"selected_rpc_url":0,"explorers":[{"name":"L2scan","url":"https://testnet-erigon-scan.merlinchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

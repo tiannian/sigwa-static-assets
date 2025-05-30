@@ -1,1 +1,0 @@
-{"name":"Smart Layer Network Testnet","network_type":"eip155","chain_id":"82459","symbol":"SU","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.test.smartlayer.network"],"selected_rpc_url":0,"explorers":[{"name":"SLN Testnet Explorer","url":"https://explorer.test.smartlayer.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

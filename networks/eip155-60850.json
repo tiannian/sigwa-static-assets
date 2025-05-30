@@ -1,1 +1,0 @@
-{"name":"Perennial Sepolia","network_type":"eip155","chain_id":"60850","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-sepolia.perennial.foundation"],"selected_rpc_url":0,"explorers":[{"name":"Perennial Explorer","url":"https://explorer-sepolia.perennial.foundation","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

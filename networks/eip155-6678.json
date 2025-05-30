@@ -1,1 +1,0 @@
-{"name":"Edge Matrix Chain","network_type":"eip155","chain_id":"6678","symbol":"EMC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc1-mainnet.emc.network"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://emcscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

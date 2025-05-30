@@ -1,1 +1,0 @@
-{"name":"Volley Mainnet","network_type":"eip155","chain_id":"9981","symbol":"V2X","native_asset":null,"decimals":18,"rpc_urls":["https://main-rpc.volleychain.com"],"selected_rpc_url":0,"explorers":[{"name":"Volley Mainnet Explorer","url":"https://volleyscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

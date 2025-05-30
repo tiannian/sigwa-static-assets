@@ -1,1 +1,0 @@
-{"name":"zkLink Nova Mainnet","network_type":"eip155","chain_id":"810180","symbol":"ETH","native_asset":"zklink","decimals":18,"rpc_urls":["https://rpc.zklink.io","wss://rpc.zklink.io"],"selected_rpc_url":0,"explorers":[{"name":"zkLink Nova Block Explorer","url":"https://explorer.zklink.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":"eip155-810180.png"}

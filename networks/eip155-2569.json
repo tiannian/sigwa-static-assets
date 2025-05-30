@@ -1,1 +1,0 @@
-{"name":"TechPay Mainnet","network_type":"eip155","chain_id":"2569","symbol":"TPC","native_asset":null,"decimals":18,"rpc_urls":["https://api.techpay.io"],"selected_rpc_url":0,"explorers":[{"name":"tpcscan","url":"https://tpcscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

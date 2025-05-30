@@ -1,1 +1,0 @@
-{"name":"Asset Chain Mainnet","network_type":"eip155","chain_id":"42420","symbol":"RWA","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.assetchain.org"],"selected_rpc_url":0,"explorers":[{"name":"Asset Chain Explorer","url":"https://scan.assetchain.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

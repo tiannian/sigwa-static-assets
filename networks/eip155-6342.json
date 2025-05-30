@@ -1,1 +1,0 @@
-{"name":"MegaETH Testnet","network_type":"eip155","chain_id":"6342","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://carrot.megaeth.com/rpc","wss://carrot.megaeth.com/ws"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":1,"icon":null}

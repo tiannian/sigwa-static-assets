@@ -1,1 +1,0 @@
-{"name":"Settlus","network_type":"eip155","chain_id":"5371","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://settlus-mainnet.g.alchemy.com/public"],"selected_rpc_url":0,"explorers":[{"name":"Settlus Mainnet Explorer","url":"https://mainnet.settlus.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"MultiVAC Mainnet","network_type":"eip155","chain_id":"62621","symbol":"MTV","native_asset":"multivac","decimals":18,"rpc_urls":["https://rpc.mtv.ac","https://rpc-eu.mtv.ac"],"selected_rpc_url":0,"explorers":[{"name":"MultiVAC Explorer","url":"https://e.mtv.ac","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-62621.png"}

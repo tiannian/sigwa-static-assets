@@ -1,1 +1,0 @@
-{"name":"GoldXChain Mainnet","network_type":"eip155","chain_id":"42355","symbol":"GOLDX","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.goldxchain.io"],"selected_rpc_url":0,"explorers":[{"name":"GoldXChain Explorer","url":"https://explorer.goldxchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"DreyerX Testnet","network_type":"eip155","chain_id":"23452","symbol":"DRX","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.dreyerx.com"],"selected_rpc_url":0,"explorers":[{"name":"drxscan","url":"https://testnet-scan.dreyerx.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

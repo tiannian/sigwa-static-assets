@@ -1,1 +1,0 @@
-{"name":"GDPR Mainnet","network_type":"eip155","chain_id":"12358","symbol":"GDPR","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.gdprchain.com"],"selected_rpc_url":0,"explorers":[{"name":"GDPR Mainnet Explorer (Blockscout)","url":"https://explorer.gdprchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

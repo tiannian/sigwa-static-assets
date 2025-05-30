@@ -1,1 +1,0 @@
-{"name":"BitTorrent Chain Donau","network_type":"eip155","chain_id":"1029","symbol":"BTT","native_asset":null,"decimals":18,"rpc_urls":["https://pre-rpc.bt.io"],"selected_rpc_url":0,"explorers":[{"name":"BitTorrent Chain Donau Explorer","url":"https://testnet.bttcscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

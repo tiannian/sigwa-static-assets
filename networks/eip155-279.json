@@ -1,1 +1,0 @@
-{"name":"BPX Chain","network_type":"eip155","chain_id":"279","symbol":"BPX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.bpxchain.cc"],"selected_rpc_url":0,"explorers":[{"name":"BPX Chain Block Explorer","url":"https://explorer.bpxchain.cc","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

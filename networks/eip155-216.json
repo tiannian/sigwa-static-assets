@@ -1,1 +1,0 @@
-{"name":"Happychain Testnet","network_type":"eip155","chain_id":"216","symbol":"HAPPY","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.happy.tech/http"],"selected_rpc_url":0,"explorers":[{"name":"Blockscout","url":"https://explorer.testnet.happy.tech","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Nahmii 3 Testnet","network_type":"eip155","chain_id":"4062","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.nahmii.io"],"selected_rpc_url":0,"explorers":[{"name":"Nahmii 3 Testnet Explorer","url":"https://explorer.testnet.nahmii.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

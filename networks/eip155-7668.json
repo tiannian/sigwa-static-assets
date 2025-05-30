@@ -1,1 +1,0 @@
-{"name":"The Root Network - Mainnet","network_type":"eip155","chain_id":"7668","symbol":"XRP","native_asset":null,"decimals":6,"rpc_urls":["https://root.rootnet.live/archive","wss://root.rootnet.live/archive/ws"],"selected_rpc_url":0,"explorers":[{"name":"rootnet","url":"https://explorer.rootnet.live","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

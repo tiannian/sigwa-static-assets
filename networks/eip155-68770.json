@@ -1,1 +1,0 @@
-{"name":"DM2 Verse Mainnet","network_type":"eip155","chain_id":"68770","symbol":"OAS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.dm2verse.dmm.com"],"selected_rpc_url":0,"explorers":[{"name":"DM2Verse Explorer","url":"https://explorer.dm2verse.dmm.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

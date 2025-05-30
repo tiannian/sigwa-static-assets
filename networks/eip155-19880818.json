@@ -1,1 +1,0 @@
-{"name":"DeepBrainChain Mainnet","network_type":"eip155","chain_id":"19880818","symbol":"DBC","native_asset":"deepbrain-chain","decimals":18,"rpc_urls":["https://rpc.dbcwallet.io"],"selected_rpc_url":0,"explorers":[{"name":"DeepBrainChain Mainnet","url":"https://www.dbcscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

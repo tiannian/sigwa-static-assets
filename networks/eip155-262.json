@@ -1,1 +1,0 @@
-{"name":"SUR Blockchain Network","network_type":"eip155","chain_id":"262","symbol":"SRN","native_asset":null,"decimals":18,"rpc_urls":["https://sur.nilin.org"],"selected_rpc_url":0,"explorers":[{"name":"Surnet Explorer","url":"https://explorer.surnet.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"AUTHEO Testnet","network_type":"eip155","chain_id":"785","symbol":"THEO","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc1.autheo.com"],"selected_rpc_url":0,"explorers":[{"name":"tracehawk","url":"https://testnet-explorer.autheo.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

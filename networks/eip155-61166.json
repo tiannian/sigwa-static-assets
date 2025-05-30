@@ -1,1 +1,0 @@
-{"name":"Treasure","network_type":"eip155","chain_id":"61166","symbol":"MAGIC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.treasure.lol","wss://rpc.treasure.lol/ws"],"selected_rpc_url":0,"explorers":[{"name":"Treasure Block Explorer","url":"https://treasurescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

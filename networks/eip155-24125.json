@@ -1,1 +1,0 @@
-{"name":"Nexurachain","network_type":"eip155","chain_id":"24125","symbol":"XURA","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.nexurachain.io"],"selected_rpc_url":0,"explorers":[{"name":"Nexurachain Explorer","url":"https://explorer.nexurachain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

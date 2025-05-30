@@ -1,1 +1,0 @@
-{"name":"Unit Zero Testnet","network_type":"eip155","chain_id":"88817","symbol":"UNIT0","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.unit0.dev"],"selected_rpc_url":0,"explorers":[{"name":"explorer-testnet","url":"https://explorer-testnet.unit0.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

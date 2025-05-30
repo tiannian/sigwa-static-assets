@@ -1,1 +1,0 @@
-{"name":"XR Sepolia","network_type":"eip155","chain_id":"2730","symbol":"tXR","native_asset":null,"decimals":18,"rpc_urls":["https://xr-sepolia-testnet.rpc.caldera.xyz/http"],"selected_rpc_url":0,"explorers":[{"name":"XR Sepolia Explorer","url":"https://xr-sepolia-testnet.explorer.caldera.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":60,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Animechain Testnet","network_type":"eip155","chain_id":"2162","symbol":"COIN","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.kanda.animechain.ai"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://explorer.kanda.animechain.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

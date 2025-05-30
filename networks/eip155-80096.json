@@ -1,1 +1,0 @@
-{"name":"Hizoco mainnet","network_type":"eip155","chain_id":"80096","symbol":"HZC","native_asset":null,"decimals":18,"rpc_urls":["https://hizoco.net/rpc"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://hizoco.net:38443","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

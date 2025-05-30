@@ -1,1 +1,0 @@
-{"name":"Tipboxcoin Testnet","network_type":"eip155","chain_id":"4141","symbol":"TPBX","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.tipboxcoin.net"],"selected_rpc_url":0,"explorers":[{"name":"Tipboxcoin","url":"https://testnet.tipboxcoin.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

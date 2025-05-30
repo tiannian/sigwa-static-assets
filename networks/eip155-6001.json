@@ -1,1 +1,0 @@
-{"name":"BounceBit Mainnet","network_type":"eip155","chain_id":"6001","symbol":"BB","native_asset":"bouncebit","decimals":18,"rpc_urls":["https://fullnode-mainnet.bouncebitapi.com"],"selected_rpc_url":0,"explorers":[{"name":"BBScan Mainnet Explorer","url":"https://bbscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-6001.png"}

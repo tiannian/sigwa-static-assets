@@ -1,1 +1,0 @@
-{"name":"Asset Chain Testnet","network_type":"eip155","chain_id":"42421","symbol":"RWA","native_asset":null,"decimals":18,"rpc_urls":["https://enugu-rpc.assetchain.org"],"selected_rpc_url":0,"explorers":[{"name":"Asset Chain Testnet Explorer","url":"https://scan-testnet.assetchain.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

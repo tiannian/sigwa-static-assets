@@ -1,1 +1,0 @@
-{"name":"WorldEcoMoney","network_type":"eip155","chain_id":"315","symbol":"WEM","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.wemblockchain.com"],"selected_rpc_url":0,"explorers":[{"name":"wemscan","url":"https://wemscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

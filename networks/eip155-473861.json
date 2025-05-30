@@ -1,1 +1,0 @@
-{"name":"Ultra Pro Mainnet","network_type":"eip155","chain_id":"473861","symbol":"UPRO","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.ultraproscan.io"],"selected_rpc_url":0,"explorers":[{"name":"ultraproscan","url":"https://ultraproscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

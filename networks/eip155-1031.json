@@ -1,1 +1,0 @@
-{"name":"Proxy Network Testnet","network_type":"eip155","chain_id":"1031","symbol":"PRX","native_asset":null,"decimals":18,"rpc_urls":["http://128.199.94.183:8041"],"selected_rpc_url":0,"explorers":[{"name":"proxy network testnet","url":"http://testnet-explorer.theproxy.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

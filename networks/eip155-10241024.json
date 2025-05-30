@@ -1,1 +1,0 @@
-{"name":"AlienX Mainnet","network_type":"eip155","chain_id":"10241024","symbol":"ETH","native_asset":"weth","decimals":18,"rpc_urls":["https://rpc.alienxchain.io/http"],"selected_rpc_url":0,"explorers":[{"name":"AlienXChain Explorer","url":"https://explorer.alienxchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-10241024.png"}

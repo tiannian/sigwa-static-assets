@@ -1,1 +1,0 @@
-{"name":"Graphlinq Blockchain Mainnet","network_type":"eip155","chain_id":"614","symbol":"GLQ","native_asset":"graphlinq-protocol","decimals":18,"rpc_urls":["https://glq-dataseed.graphlinq.io"],"selected_rpc_url":0,"explorers":[{"name":"GLQ Explorer","url":"https://explorer.graphlinq.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-614.png"}

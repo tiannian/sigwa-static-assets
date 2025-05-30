@@ -1,1 +1,0 @@
-{"name":"Bear Network Chain Testnet","network_type":"eip155","chain_id":"751230","symbol":"tBRNKC","native_asset":null,"decimals":18,"rpc_urls":["https://brnkc-test.bearnetwork.net"],"selected_rpc_url":0,"explorers":[{"name":"brnktestscan","url":"https://brnktest-scan.bearnetwork.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

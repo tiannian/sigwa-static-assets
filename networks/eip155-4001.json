@@ -1,1 +1,0 @@
-{"name":"Peperium Chain Testnet","network_type":"eip155","chain_id":"4001","symbol":"PERIUM","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.peperium.io"],"selected_rpc_url":0,"explorers":[{"name":"Peperium Chain Explorer","url":"https://scan-testnet.peperium.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

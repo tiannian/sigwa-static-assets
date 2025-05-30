@@ -1,1 +1,0 @@
-{"name":"Turbo","network_type":"eip155","chain_id":"1313161567","symbol":"TURBO","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-0x4e45415f.aurora-cloud.dev"],"selected_rpc_url":0,"explorers":[{"name":"Turbo explorer","url":"https://explorer.turbo.aurora.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

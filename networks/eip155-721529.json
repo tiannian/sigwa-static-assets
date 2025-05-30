@@ -1,1 +1,0 @@
-{"name":"ERAM Mainnet","network_type":"eip155","chain_id":"721529","symbol":"ERAM","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.eramscan.com"],"selected_rpc_url":0,"explorers":[{"name":"Eramscan","url":"https://eramscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

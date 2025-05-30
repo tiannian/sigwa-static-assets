@@ -1,1 +1,0 @@
-{"name":"Superposition Testnet","network_type":"eip155","chain_id":"98985","symbol":"SPN","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.superposition.so"],"selected_rpc_url":0,"explorers":[{"name":"Superposition Explorer","url":"https://testnet-explorer.superposition.so","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

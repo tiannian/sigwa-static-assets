@@ -1,1 +1,0 @@
-{"name":"Daily Network Mainnet","network_type":"eip155","chain_id":"824","symbol":"DLY","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.mainnet.dailycrypto.net"],"selected_rpc_url":0,"explorers":[{"name":"Daily Mainnet Explorer","url":"https://explorer.mainnet.dailycrypto.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

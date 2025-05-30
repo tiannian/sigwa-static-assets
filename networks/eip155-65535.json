@@ -1,1 +1,0 @@
-{"name":"CyberChain Mainnet","network_type":"eip155","chain_id":"65535","symbol":"XCC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.cyberchain.xyz"],"selected_rpc_url":0,"explorers":[{"name":"CyberChain explorer","url":"https://scan.cyberchain.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":60,"icon":null}

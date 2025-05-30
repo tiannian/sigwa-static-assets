@@ -1,1 +1,0 @@
-{"name":"Evoz Mainnet","network_type":"eip155","chain_id":"805","symbol":"EVOZ","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.evozscan.com"],"selected_rpc_url":0,"explorers":[{"name":"evozscan","url":"https://evozscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"UPchain Testnet","network_type":"eip155","chain_id":"336655","symbol":"UBTC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.uniport.network"],"selected_rpc_url":0,"explorers":[{"name":"UPchain Testnet Explorer","url":"https://explorer-testnet.uniport.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

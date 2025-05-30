@@ -1,1 +1,0 @@
-{"name":"KUB Mainnet","network_type":"eip155","chain_id":"96","symbol":"KUB","native_asset":"bitkub-coin","decimals":18,"rpc_urls":["https://rpc.bitkubchain.io","wss://wss.bitkubchain.io"],"selected_rpc_url":0,"explorers":[{"name":"KUB Mainnet Explorer","url":"https://kubscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-96.png"}

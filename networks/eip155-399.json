@@ -1,1 +1,0 @@
-{"name":"Nativ3 Mainnet","network_type":"eip155","chain_id":"399","symbol":"USNT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.nativ3.network","wss://ws.nativ3.network"],"selected_rpc_url":0,"explorers":[{"name":"N3scan","url":"https://scan.nativ3.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

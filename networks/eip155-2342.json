@@ -1,1 +1,0 @@
-{"name":"Omnia Chain","network_type":"eip155","chain_id":"2342","symbol":"OMNIA","native_asset":"omniaverse","decimals":18,"rpc_urls":["https://rpc.omniaverse.io"],"selected_rpc_url":0,"explorers":[{"name":"OmniaVerse Explorer","url":"https://scan.omniaverse.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-2342.png"}

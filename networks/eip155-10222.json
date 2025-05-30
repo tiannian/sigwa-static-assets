@@ -1,1 +1,0 @@
-{"name":"GLScan","network_type":"eip155","chain_id":"10222","symbol":"GLC","native_asset":null,"decimals":18,"rpc_urls":["https://glc-dataseed.glscan.io"],"selected_rpc_url":0,"explorers":[{"name":"GLScan Explorer","url":"https://glscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

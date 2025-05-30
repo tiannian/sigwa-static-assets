@@ -1,1 +1,0 @@
-{"name":"Genesys Code Mainnet","network_type":"eip155","chain_id":"59971","symbol":"GCODE","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.genesyscode.io"],"selected_rpc_url":0,"explorers":[{"name":"Genesys Scan","url":"https://genesysscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

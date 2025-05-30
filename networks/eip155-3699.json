@@ -1,1 +1,0 @@
-{"name":"SenjePowers Mainnet","network_type":"eip155","chain_id":"3699","symbol":"SPC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.senjepowersscan.com"],"selected_rpc_url":0,"explorers":[{"name":"SenjePowers","url":"https://senjepowersscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

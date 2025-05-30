@@ -1,1 +1,0 @@
-{"name":"XCHAIN","network_type":"eip155","chain_id":"94524","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://xchain-rpc.kuma.bid"],"selected_rpc_url":0,"explorers":[{"name":"XCHAIN Explorer","url":"https://xchain-explorer.kuma.bid","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Nexa Testnet Block","network_type":"eip155","chain_id":"9024","symbol":"NEXB","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet-nodes.nexablockscan.io"],"selected_rpc_url":0,"explorers":[{"name":"Nexablock Testnet Explorer","url":"https://testnet.nexablockscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

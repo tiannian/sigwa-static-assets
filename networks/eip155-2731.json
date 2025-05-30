@@ -1,1 +1,0 @@
-{"name":"Elizabeth Testnet","network_type":"eip155","chain_id":"2731","symbol":"TIME","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.timenetwork.io"],"selected_rpc_url":0,"explorers":[{"name":"Time Network Explorer","url":"https://testnet-scanner.timenetwork.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

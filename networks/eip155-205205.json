@@ -1,1 +1,0 @@
-{"name":"Auroria Testnet","network_type":"eip155","chain_id":"205205","symbol":"tSTRAX","native_asset":null,"decimals":18,"rpc_urls":["https://auroria.rpc.stratisevm.com"],"selected_rpc_url":0,"explorers":[{"name":"Auroria Testnet Explorer","url":"https://auroria.explorer.stratisevm.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

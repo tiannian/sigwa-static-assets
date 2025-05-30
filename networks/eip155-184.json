@@ -1,1 +1,0 @@
-{"name":"Dojima Testnet","network_type":"eip155","chain_id":"184","symbol":"DOJ","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-test-d11k.dojima.network"],"selected_rpc_url":0,"explorers":[{"name":"Dojima Testnet Explorer","url":"https://explorer-test.dojima.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Azra Testnet","network_type":"eip155","chain_id":"5106","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-azra-testnet-6hz86owb1n.t.conduit.xyz"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://explorerl2new-azra-testnet-6hz86owb1n.t.conduit.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

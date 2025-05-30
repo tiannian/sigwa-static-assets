@@ -1,1 +1,0 @@
-{"name":"BounceBit Testnet","network_type":"eip155","chain_id":"6000","symbol":"BB","native_asset":null,"decimals":18,"rpc_urls":["https://fullnode-testnet.bouncebitapi.com"],"selected_rpc_url":0,"explorers":[{"name":"BBScan Testnet Explorer","url":"https://bbscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

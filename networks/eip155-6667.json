@@ -1,1 +1,0 @@
-{"name":"Storchain","network_type":"eip155","chain_id":"6667","symbol":"STR","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.storchain.io"],"selected_rpc_url":0,"explorers":[{"name":"storscan","url":"https://scan.storchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

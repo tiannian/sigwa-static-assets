@@ -1,1 +1,0 @@
-{"name":"LBRY Mainnet","network_type":"eip155","chain_id":"19600","symbol":"LBC","native_asset":null,"decimals":8,"rpc_urls":["https://lbry.nl/rpc"],"selected_rpc_url":0,"explorers":[{"name":"LBRY Block Explorer","url":"https://explorer.lbry.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":140,"icon":null}

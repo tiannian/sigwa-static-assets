@@ -1,1 +1,0 @@
-{"name":"Crypto Emergency","network_type":"eip155","chain_id":"193","symbol":"CEM","native_asset":null,"decimals":18,"rpc_urls":["https://cemchain.com"],"selected_rpc_url":0,"explorers":[{"name":"cemscan","url":"https://cemscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

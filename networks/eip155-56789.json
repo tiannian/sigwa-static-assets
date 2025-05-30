@@ -1,1 +1,0 @@
-{"name":"VELO Labs Mainnet","network_type":"eip155","chain_id":"56789","symbol":"NOVA","native_asset":null,"decimals":18,"rpc_urls":["https://nova.velo.org"],"selected_rpc_url":0,"explorers":[{"name":"novascan","url":"https://novascan.velo.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

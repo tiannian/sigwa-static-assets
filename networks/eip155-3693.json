@@ -1,1 +1,0 @@
-{"name":"Empire Network","network_type":"eip155","chain_id":"3693","symbol":"EMPIRE","native_asset":"empire-capital-token","decimals":18,"rpc_urls":["https://rpc.empirenetwork.io"],"selected_rpc_url":0,"explorers":[{"name":"Empire Explorer","url":"https://explorer.empirenetwork.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-3693.png"}

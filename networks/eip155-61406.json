@@ -1,1 +1,0 @@
-{"name":"KaiChain","network_type":"eip155","chain_id":"61406","symbol":"KEC","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.kaichain.net"],"selected_rpc_url":0,"explorers":[{"name":"KaiChain Explorer","url":"https://explorer.kaichain.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

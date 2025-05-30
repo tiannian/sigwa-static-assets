@@ -1,1 +1,0 @@
-{"name":"XPLA Verse","network_type":"eip155","chain_id":"7300","symbol":"OAS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-xpla-verse.xpla.dev"],"selected_rpc_url":0,"explorers":[{"name":"XPLA Verse Explorer","url":"https://explorer-xpla-verse.xpla.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

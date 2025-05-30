@@ -1,1 +1,0 @@
-{"name":"Flamma Testnet","network_type":"eip155","chain_id":"6550","symbol":"FLA","native_asset":null,"decimals":18,"rpc_urls":["https://testnetrpc.flamma.network"],"selected_rpc_url":0,"explorers":[{"name":"flascan","url":"https://testnet.flascan.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

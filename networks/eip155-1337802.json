@@ -1,1 +1,0 @@
-{"name":"Kiln","network_type":"eip155","chain_id":"1337802","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.kiln.themerge.dev"],"selected_rpc_url":0,"explorers":[{"name":"Kiln Explorer","url":"https://explorer.kiln.themerge.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

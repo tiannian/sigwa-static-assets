@@ -1,1 +1,0 @@
-{"name":"CAGA mainnet","network_type":"eip155","chain_id":"72888","symbol":"CAGA","native_asset":null,"decimals":18,"rpc_urls":["https://cagamainnet.com","wss://cagamainnet.com/ws"],"selected_rpc_url":0,"explorers":[{"name":"caga","url":"https://explorer.cagamainnet.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

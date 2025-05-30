@@ -1,1 +1,0 @@
-{"name":"Hyperliquid EVM Testnet","network_type":"eip155","chain_id":"998","symbol":"HYPE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.hyperliquid-testnet.xyz/evm","https://api.hyperliquid-testnet.xyz/evm"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"ZEDXION","network_type":"eip155","chain_id":"83872","symbol":"ZEDX","native_asset":"zedxion-2","decimals":9,"rpc_urls":["https://mainnet-rpc.zedscan.net"],"selected_rpc_url":0,"explorers":[{"name":"Zedscan","url":"http://zedscan.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-83872.png"}

@@ -1,1 +1,0 @@
-{"name":"AB Core Testnet","network_type":"eip155","chain_id":"26888","symbol":"AB","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.core.testnet.ab.org"],"selected_rpc_url":0,"explorers":[{"name":"AB Core explorer","url":"https://explorer.core.testnet.ab.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

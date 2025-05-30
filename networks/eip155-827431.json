@@ -1,1 +1,0 @@
-{"name":"CURVE Mainnet","network_type":"eip155","chain_id":"827431","symbol":"CURVE","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.curvescan.io"],"selected_rpc_url":0,"explorers":[{"name":"CURVE Mainnet","url":"https://curvescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

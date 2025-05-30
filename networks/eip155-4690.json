@@ -1,1 +1,0 @@
-{"name":"IoTeX Network Testnet","network_type":"eip155","chain_id":"4690","symbol":"IOTX","native_asset":null,"decimals":18,"rpc_urls":["https://babel-api.testnet.iotex.io"],"selected_rpc_url":0,"explorers":[{"name":"testnet iotexscan","url":"https://testnet.iotexscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Smart Trade Networks","network_type":"eip155","chain_id":"18122","symbol":"STN","native_asset":null,"decimals":18,"rpc_urls":["https://beefledgerwallet.com:8544"],"selected_rpc_url":0,"explorers":[{"name":"stnscan","url":"https://stnscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

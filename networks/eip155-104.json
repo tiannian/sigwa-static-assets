@@ -1,1 +1,0 @@
-{"name":"Kaiba Lightning Chain Testnet","network_type":"eip155","chain_id":"104","symbol":"tKAIBA","native_asset":null,"decimals":18,"rpc_urls":["https://klc.live"],"selected_rpc_url":0,"explorers":[{"name":"kaibascan","url":"https://kaibascan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

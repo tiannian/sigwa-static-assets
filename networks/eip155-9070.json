@@ -1,1 +1,0 @@
-{"name":"Apex Fusion - Nexus testnet","network_type":"eip155","chain_id":"9070","symbol":"tAP3X","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.nexus.testnet.apexfusion.org"],"selected_rpc_url":0,"explorers":[{"name":"apexfusion","url":"https://explorer.nexus.testnet.apexfusion.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

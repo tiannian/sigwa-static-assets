@@ -1,1 +1,0 @@
-{"name":"Ultima Mainnet","network_type":"eip155","chain_id":"3416255149","symbol":"ULTIMA","native_asset":null,"decimals":6,"rpc_urls":[],"selected_rpc_url":0,"explorers":[{"name":"ultimachain","url":"https://ultimachain.info","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":785,"icon":null}

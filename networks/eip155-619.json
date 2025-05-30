@@ -1,1 +1,0 @@
-{"name":"Skynet","network_type":"eip155","chain_id":"619","symbol":"sUSD","native_asset":null,"decimals":18,"rpc_urls":["http://rpc.skynet.io"],"selected_rpc_url":0,"explorers":[{"name":"tracehawk","url":"http://explorer.skynet.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

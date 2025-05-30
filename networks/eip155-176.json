@@ -1,1 +1,0 @@
-{"name":"DC Mainnet","network_type":"eip155","chain_id":"176","symbol":"DCT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.dcnetio.cloud","wss://ws.dcnetio.cloud"],"selected_rpc_url":0,"explorers":[{"name":"dcscan","url":"https://exp.dcnetio.cloud","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"AIE Testnet","network_type":"eip155","chain_id":"413413","symbol":"AIE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc1-testnet.aiechain.io"],"selected_rpc_url":0,"explorers":[{"name":"aiescan-testnet","url":"https://testnet.aiescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Laika Testnet","network_type":"eip155","chain_id":"4269","symbol":"DOGE","native_asset":null,"decimals":18,"rpc_urls":["https://testnetrpc1.laikachain.dog"],"selected_rpc_url":0,"explorers":[{"name":"Laika Testnet Explorer","url":"https://testnet.laikachain.dog","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

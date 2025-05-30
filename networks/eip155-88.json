@@ -1,1 +1,0 @@
-{"name":"Viction","network_type":"eip155","chain_id":"88","symbol":"VIC","native_asset":"tomochain","decimals":18,"rpc_urls":["https://rpc.tomochain.com","https://viction.blockpi.network/v1/rpc/public","https://viction.drpc.org","wss://viction.drpc.org","https://rpc.viction.xyz"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":889,"icon":"eip155-88.png"}

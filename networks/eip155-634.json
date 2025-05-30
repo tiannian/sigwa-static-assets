@@ -1,1 +1,0 @@
-{"name":"Avocado","network_type":"eip155","chain_id":"634","symbol":"USDC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.avocado.instadapp.io"],"selected_rpc_url":0,"explorers":[{"name":"avoscan","url":"https://avoscan.co","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

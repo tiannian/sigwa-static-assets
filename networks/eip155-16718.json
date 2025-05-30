@@ -1,1 +1,0 @@
-{"name":"AirDAO Mainnet","network_type":"eip155","chain_id":"16718","symbol":"AMB","native_asset":"amber","decimals":18,"rpc_urls":["https://network.ambrosus.io"],"selected_rpc_url":0,"explorers":[{"name":"AirDAO Network Explorer","url":"https://airdao.io/explorer","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-16718.png"}

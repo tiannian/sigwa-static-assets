@@ -1,1 +1,0 @@
-{"name":"Meter Testnet","network_type":"eip155","chain_id":"83","symbol":"MTR","native_asset":null,"decimals":18,"rpc_urls":["https://rpctest.meter.io"],"selected_rpc_url":0,"explorers":[{"name":"Meter Testnet Scan","url":"https://scan-warringstakes.meter.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

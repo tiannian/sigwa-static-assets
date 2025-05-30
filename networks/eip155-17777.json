@@ -1,1 +1,0 @@
-{"name":"EOS EVM Network","network_type":"eip155","chain_id":"17777","symbol":"EOS","native_asset":"eos","decimals":18,"rpc_urls":["https://api.evm.eosnetwork.com"],"selected_rpc_url":0,"explorers":[{"name":"EOS EVM Explorer","url":"https://explorer.evm.eosnetwork.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-17777.png"}

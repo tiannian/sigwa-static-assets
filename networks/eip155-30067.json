@@ -1,1 +1,0 @@
-{"name":"Piece testnet","network_type":"eip155","chain_id":"30067","symbol":"ECE","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc0.piecenetwork.com"],"selected_rpc_url":0,"explorers":[{"name":"Piece Scan","url":"https://testnet-scan.piecenetwork.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

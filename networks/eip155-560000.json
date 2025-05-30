@@ -1,1 +1,0 @@
-{"name":"Hetu Testnet","network_type":"eip155","chain_id":"560000","symbol":"tETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testchainv1.hetuscan.com"],"selected_rpc_url":0,"explorers":[{"name":"Hetu Testnet Scan","url":"https://testchainv1.hetuscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

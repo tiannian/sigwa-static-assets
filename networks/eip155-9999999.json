@@ -1,1 +1,0 @@
-{"name":"Fluence","network_type":"eip155","chain_id":"9999999","symbol":"FLT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.mainnet.fluence.dev","wss://ws.mainnet.fluence.dev"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://blockscout.mainnet.fluence.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

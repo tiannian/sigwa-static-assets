@@ -1,1 +1,0 @@
-{"name":"Datacore Smart Chain","network_type":"eip155","chain_id":"1555","symbol":"DSC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc01.dscscan.io"],"selected_rpc_url":0,"explorers":[{"name":"Datacore Smart Chain","url":"https://dscscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

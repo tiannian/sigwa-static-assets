@@ -1,1 +1,0 @@
-{"name":"pointledger","network_type":"eip155","chain_id":"9889","symbol":"PLG","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.pointledger.net"],"selected_rpc_url":0,"explorers":[{"name":"pointledger Explorer","url":"https://exp.pointledger.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"NOW Chain Testnet","network_type":"eip155","chain_id":"2014","symbol":"NOW","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.nowscan.io","https://rpc-testnet.nowscan.io"],"selected_rpc_url":0,"explorers":[{"name":"nowscan testnet","url":"https://testnet.nowscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

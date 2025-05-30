@@ -1,1 +1,0 @@
-{"name":"Aarma Mainnet","network_type":"eip155","chain_id":"2889","symbol":"ARMA","native_asset":null,"decimals":18,"rpc_urls":["https://aarmarpc.com"],"selected_rpc_url":0,"explorers":[{"name":"aarmascan","url":"https://aarmascan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Inertia Scan","network_type":"eip155","chain_id":"5433","symbol":"IRTA","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.inertiascan.com"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://inertiascan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

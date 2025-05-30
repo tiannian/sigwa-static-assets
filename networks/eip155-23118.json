@@ -1,1 +1,0 @@
-{"name":"Opside Testnet","network_type":"eip155","chain_id":"23118","symbol":"IDE","native_asset":null,"decimals":18,"rpc_urls":["https://testrpc.opside.network"],"selected_rpc_url":0,"explorers":[{"name":"opsideInfo","url":"https://opside.info","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

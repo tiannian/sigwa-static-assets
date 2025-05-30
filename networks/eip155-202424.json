@@ -1,1 +1,0 @@
-{"name":"Blockfit","network_type":"eip155","chain_id":"202424","symbol":"BFIT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.blockfitscan.io"],"selected_rpc_url":0,"explorers":[{"name":"Tracehawk","url":"https://blockfitscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

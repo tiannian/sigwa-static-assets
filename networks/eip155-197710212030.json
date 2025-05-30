@@ -1,1 +1,0 @@
-{"name":"Ntity Mainnet","network_type":"eip155","chain_id":"197710212030","symbol":"NTT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.ntity.io"],"selected_rpc_url":0,"explorers":[{"name":"Ntity Explorer","url":"https://explorer.ntity.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

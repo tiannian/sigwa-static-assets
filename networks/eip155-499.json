@@ -1,1 +1,0 @@
-{"name":"Rupaya","network_type":"eip155","chain_id":"499","symbol":"RUPX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.rupaya.io"],"selected_rpc_url":0,"explorers":[{"name":"Rupaya Explorer","url":"https://scan.rupaya.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":499,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Q Mainnet","network_type":"eip155","chain_id":"35441","symbol":"QGOV","native_asset":"q-protocol","decimals":18,"rpc_urls":["https://rpc.q.org"],"selected_rpc_url":0,"explorers":[{"name":"Q explorer","url":"https://explorer.q.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-35441.png"}

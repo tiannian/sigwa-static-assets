@@ -1,1 +1,0 @@
-{"name":"GoldXChain Testnet","network_type":"eip155","chain_id":"22324","symbol":"GOLDX","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.goldxchain.io"],"selected_rpc_url":0,"explorers":[{"name":"GoldXChain Testnet Explorer","url":"https://testnet-explorer.goldxchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

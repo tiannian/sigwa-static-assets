@@ -1,1 +1,0 @@
-{"name":"SX Rollup","network_type":"eip155","chain_id":"4162","symbol":"SX","native_asset":"sx-network-2","decimals":18,"rpc_urls":["https://rpc.sx-rollup.gelato.digital"],"selected_rpc_url":0,"explorers":[{"name":"SX L2 Explorer","url":"https://explorerl2.sx.technology","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-4162.png"}

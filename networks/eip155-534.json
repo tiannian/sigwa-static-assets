@@ -1,1 +1,0 @@
-{"name":"Candle","network_type":"eip155","chain_id":"534","symbol":"CNDL","native_asset":null,"decimals":18,"rpc_urls":["https://candle-rpc.com","https://rpc.cndlchain.com"],"selected_rpc_url":0,"explorers":[{"name":"candleexplorer","url":"https://candleexplorer.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":674,"icon":null}

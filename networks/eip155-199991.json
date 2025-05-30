@@ -1,1 +1,0 @@
-{"name":"MAZZE Testnet","network_type":"eip155","chain_id":"199991","symbol":"MAZZE","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.mazze.io"],"selected_rpc_url":0,"explorers":[{"name":"MAZZE Testnet Explorer","url":"https://mazzescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

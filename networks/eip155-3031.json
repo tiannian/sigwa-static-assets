@@ -1,1 +1,0 @@
-{"name":"Orlando Chain","network_type":"eip155","chain_id":"3031","symbol":"ORL","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.orlchain.com"],"selected_rpc_url":0,"explorers":[{"name":"Orlando (ORL) Explorer","url":"https://orlscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

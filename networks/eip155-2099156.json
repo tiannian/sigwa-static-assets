@@ -1,1 +1,0 @@
-{"name":"Plian Mainnet Main","network_type":"eip155","chain_id":"2099156","symbol":"PI","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.plian.io/pchain"],"selected_rpc_url":0,"explorers":[{"name":"piscan","url":"https://piscan.plian.org/pchain","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

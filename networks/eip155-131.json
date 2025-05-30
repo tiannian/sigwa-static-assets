@@ -1,1 +1,0 @@
-{"name":"Engram Testnet","network_type":"eip155","chain_id":"131","symbol":"tGRAM","native_asset":null,"decimals":18,"rpc_urls":["https://tokioswift.engram.tech","https://tokio-archive.engram.tech"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://tokioscan-v2.engram.tech","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

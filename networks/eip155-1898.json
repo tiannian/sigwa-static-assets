@@ -1,1 +1,0 @@
-{"name":"BON Network","network_type":"eip155","chain_id":"1898","symbol":"BOY","native_asset":null,"decimals":18,"rpc_urls":["http://rpc.boyanet.org:8545","ws://rpc.boyanet.org:8546"],"selected_rpc_url":0,"explorers":[{"name":"explorer","url":"https://explorer.boyanet.org:4001","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

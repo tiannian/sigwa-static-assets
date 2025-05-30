@@ -1,1 +1,0 @@
-{"name":"TSC Testnet","network_type":"eip155","chain_id":"820522","symbol":"tTAS","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.tscscan.io/testrpc"],"selected_rpc_url":0,"explorers":[{"name":"tscscan","url":"https://testnet.tscscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

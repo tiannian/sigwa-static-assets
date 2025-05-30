@@ -1,1 +1,0 @@
-{"name":"Lens","network_type":"eip155","chain_id":"232","symbol":"GHO","native_asset":"gho","decimals":18,"rpc_urls":["https://rpc.lens.xyz","https://lens.drpc.org"],"selected_rpc_url":0,"explorers":[{"name":"Lens Block Explorer","url":"https://explorer.lens.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-232.png"}

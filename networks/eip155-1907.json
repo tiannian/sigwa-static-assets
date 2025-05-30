@@ -1,1 +1,0 @@
-{"name":"Bitcichain Mainnet","network_type":"eip155","chain_id":"1907","symbol":"BITCI","native_asset":"bitcicoin","decimals":18,"rpc_urls":["https://rpc.bitci.com"],"selected_rpc_url":0,"explorers":[{"name":"Bitci Explorer","url":"https://bitciexplorer.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-1907.png"}

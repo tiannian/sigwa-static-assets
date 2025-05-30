@@ -1,1 +1,0 @@
-{"name":"Gobbl Testnet","network_type":"eip155","chain_id":"486487","symbol":"GOBBL","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.gobbl.io"],"selected_rpc_url":0,"explorers":[{"name":"Gobbl Testnet Explorer","url":"https://explorer.gobbl.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

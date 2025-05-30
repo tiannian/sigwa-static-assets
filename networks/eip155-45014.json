@@ -1,1 +1,0 @@
-{"name":"Juneo LINK1-Chain","network_type":"eip155","chain_id":"45014","symbol":"LINK1","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.juneo-mainnet.network/ext/bc/LINK1/rpc"],"selected_rpc_url":0,"explorers":[{"name":"Juneo Scan","url":"https://juneoscan.io/chain/13","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

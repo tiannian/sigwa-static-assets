@@ -1,1 +1,0 @@
-{"name":"TBSI Testnet","network_type":"eip155","chain_id":"1708","symbol":"JINDA","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.blockchain.or.th"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://exp.testnet.blockchain.or.th","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"5ireChain Mainnet","network_type":"eip155","chain_id":"995","symbol":"5ire","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.5ire.network"],"selected_rpc_url":0,"explorers":[{"name":"5ireChain Explorer","url":"https://5irescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

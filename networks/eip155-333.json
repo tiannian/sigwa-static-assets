@@ -1,1 +1,0 @@
-{"name":"Web3Q Mainnet","network_type":"eip155","chain_id":"333","symbol":"W3Q","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.web3q.io:8545"],"selected_rpc_url":0,"explorers":[{"name":"w3q-mainnet","url":"https://explorer.mainnet.web3q.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

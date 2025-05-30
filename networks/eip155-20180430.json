@@ -1,1 +1,0 @@
-{"name":"SmartMesh Mainnet","network_type":"eip155","chain_id":"20180430","symbol":"SMT","native_asset":null,"decimals":18,"rpc_urls":["https://jsonapi1.smartmesh.cn"],"selected_rpc_url":0,"explorers":[{"name":"spectrum","url":"https://spectrum.pub","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

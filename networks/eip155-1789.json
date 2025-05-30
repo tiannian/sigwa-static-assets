@@ -1,1 +1,0 @@
-{"name":"ZKBase Sepolia Testnet","network_type":"eip155","chain_id":"1789","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://sepolia-rpc.zkbase.app"],"selected_rpc_url":0,"explorers":[{"name":"ZKbase Block Explorer","url":"https://sepolia-explorer.zkbase.app","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

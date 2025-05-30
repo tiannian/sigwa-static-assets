@@ -1,1 +1,0 @@
-{"name":"T.E.A.M Blockchain","network_type":"eip155","chain_id":"88888888","symbol":"$TEAM","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.teamblockchain.team"],"selected_rpc_url":0,"explorers":[{"name":"teamscan","url":"https://teamblockchain.team","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

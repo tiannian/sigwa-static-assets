@@ -1,1 +1,0 @@
-{"name":"Silicon zkEVM","network_type":"eip155","chain_id":"2355","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.silicon.network","https://silicon-mainnet.nodeinfra.com"],"selected_rpc_url":0,"explorers":[{"name":"siliconscope","url":"https://scope.silicon.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

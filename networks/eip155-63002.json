@@ -1,1 +1,0 @@
-{"name":"eSync Network Testnet","network_type":"eip155","chain_id":"63002","symbol":"ECS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.tst.esync.network"],"selected_rpc_url":0,"explorers":[{"name":"eSync Network Testnet Explorer","url":"https://explorer.tst.esync.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

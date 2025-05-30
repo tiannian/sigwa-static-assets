@@ -1,1 +1,0 @@
-{"name":"SX Network Mainnet","network_type":"eip155","chain_id":"416","symbol":"SX","native_asset":"sx-network-2","decimals":18,"rpc_urls":["https://rpc.sx.technology"],"selected_rpc_url":0,"explorers":[{"name":"SX Network Explorer","url":"https://explorer.sx.technology","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-416.png"}

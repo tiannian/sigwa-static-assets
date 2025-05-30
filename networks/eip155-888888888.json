@@ -1,1 +1,0 @@
-{"name":"Ancient8","network_type":"eip155","chain_id":"888888888","symbol":"ETH","native_asset":"weth","decimals":18,"rpc_urls":["https://rpc.ancient8.gg"],"selected_rpc_url":0,"explorers":[{"name":"Ancient8 Explorer","url":"https://scan.ancient8.gg","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-888888888.png"}

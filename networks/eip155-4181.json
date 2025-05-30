@@ -1,1 +1,0 @@
-{"name":"PHI Network V1","network_type":"eip155","chain_id":"4181","symbol":"Φ","native_asset":null,"decimals":18,"rpc_urls":["https://rpc1.phi.network","https://rpc2.phi.network"],"selected_rpc_url":0,"explorers":[{"name":"PHI Explorer","url":"https://explorer.phi.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

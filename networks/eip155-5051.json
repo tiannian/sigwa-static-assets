@@ -1,1 +1,0 @@
-{"name":"Nollie Skatechain Testnet","network_type":"eip155","chain_id":"5051","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://nollie-rpc.skatechain.org"],"selected_rpc_url":0,"explorers":[{"name":"Nollie Skate Chain Testnet Explorer","url":"https://nolliescan.skatechain.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

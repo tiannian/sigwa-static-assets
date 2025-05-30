@@ -1,1 +1,0 @@
-{"name":"SRICHAIN","network_type":"eip155","chain_id":"95432","symbol":"SRIX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.sriscan.com"],"selected_rpc_url":0,"explorers":[{"name":"SRICHAIN","url":"https://sriscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":108,"icon":null}

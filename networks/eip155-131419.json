@@ -1,1 +1,0 @@
-{"name":"ETND Chain Mainnets","network_type":"eip155","chain_id":"131419","symbol":"ETND","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.node1.etnd.pro"],"selected_rpc_url":0,"explorers":[{"name":"etndscan","url":"https://scan.etnd.pro","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

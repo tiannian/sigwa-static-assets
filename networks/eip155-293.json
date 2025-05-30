@@ -1,1 +1,0 @@
-{"name":"DaVinci","network_type":"eip155","chain_id":"293","symbol":"DCOIN","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.davinci.bz"],"selected_rpc_url":0,"explorers":[{"name":"davinciscan","url":"https://mainnet-explorer.davinci.bz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

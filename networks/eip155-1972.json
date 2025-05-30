@@ -1,1 +1,0 @@
-{"name":"RedeCoin","network_type":"eip155","chain_id":"1972","symbol":"REDEV2","native_asset":null,"decimals":18,"rpc_urls":["https://rpc2.redecoin.eu"],"selected_rpc_url":0,"explorers":[{"name":"RedeCoin Explorer","url":"https://explorer3.redecoin.eu","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

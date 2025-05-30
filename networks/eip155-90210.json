@@ -1,1 +1,0 @@
-{"name":"Beverly Hills","network_type":"eip155","chain_id":"90210","symbol":"BVE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.beverlyhills.ethdevops.io:8545"],"selected_rpc_url":0,"explorers":[{"name":"Beverly Hills explorer","url":"https://explorer.beverlyhills.ethdevops.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

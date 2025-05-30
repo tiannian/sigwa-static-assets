@@ -1,1 +1,0 @@
-{"name":"Wegochain Rubidium Mainnet","network_type":"eip155","chain_id":"5869","symbol":"RBD","native_asset":null,"decimals":18,"rpc_urls":["https://proxy.wegochain.io","http://wallet.wegochain.io:7764"],"selected_rpc_url":0,"explorers":[{"name":"wegoscan2","url":"https://scan2.wegochain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

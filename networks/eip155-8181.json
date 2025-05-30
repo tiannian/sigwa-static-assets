@@ -1,1 +1,0 @@
-{"name":"Testnet BeOne Chain","network_type":"eip155","chain_id":"8181","symbol":"tBOC","native_asset":null,"decimals":18,"rpc_urls":["https://pre-boc1.beonechain.com"],"selected_rpc_url":0,"explorers":[{"name":"Testnet BeOne Chain","url":"https://testnet.beonescan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

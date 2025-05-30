@@ -1,1 +1,0 @@
-{"name":"6Degree of Outreach - Testnet","network_type":"eip155","chain_id":"24772477","symbol":"6DO-T","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.6dochain.com"],"selected_rpc_url":0,"explorers":[{"name":"6Degree Testnet Chain Explorer","url":"https://explorer-testnet.6dochain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

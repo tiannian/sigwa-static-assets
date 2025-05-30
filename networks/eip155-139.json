@@ -1,1 +1,0 @@
-{"name":"WoopChain Mainnet","network_type":"eip155","chain_id":"139","symbol":"WOOC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.woop.ai/rpc"],"selected_rpc_url":0,"explorers":[{"name":"wikiwoop","url":"https://explorer.wikiwoop.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

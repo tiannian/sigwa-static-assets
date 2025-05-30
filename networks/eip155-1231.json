@@ -1,1 +1,0 @@
-{"name":"Ultron Mainnet","network_type":"eip155","chain_id":"1231","symbol":"ULX","native_asset":"ultron","decimals":18,"rpc_urls":["https://ultron-rpc.net"],"selected_rpc_url":0,"explorers":[{"name":"Ultron Explorer","url":"https://ulxscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-1231.png"}

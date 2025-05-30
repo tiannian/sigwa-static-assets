@@ -1,1 +1,0 @@
-{"name":"Findora Testnet","network_type":"eip155","chain_id":"2153","symbol":"FRA","native_asset":null,"decimals":18,"rpc_urls":["https://prod-testnet.prod.findora.org:8545"],"selected_rpc_url":0,"explorers":[{"name":"findorascan","url":"https://testnet-anvil.evm.findorascan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

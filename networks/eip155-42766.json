@@ -1,1 +1,0 @@
-{"name":"ZKFair Mainnet","network_type":"eip155","chain_id":"42766","symbol":"USDC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.zkfair.io","https://endpoints.omniatech.io/v1/zkfair/mainnet/public"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://scan.zkfair.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

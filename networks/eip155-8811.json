@@ -1,1 +1,0 @@
-{"name":"Haven1","network_type":"eip155","chain_id":"8811","symbol":"H1","native_asset":"haven1","decimals":18,"rpc_urls":["https://rpc.haven1.org"],"selected_rpc_url":0,"explorers":[{"name":"Haven1 Explorer","url":"https://explorer.haven1.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-8811.png"}

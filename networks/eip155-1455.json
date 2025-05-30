@@ -1,1 +1,0 @@
-{"name":"Ctex Scan Blockchain","network_type":"eip155","chain_id":"1455","symbol":"CTEX","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.ctexscan.com"],"selected_rpc_url":0,"explorers":[{"name":"Ctex Scan Explorer","url":"https://ctexscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

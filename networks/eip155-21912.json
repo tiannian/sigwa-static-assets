@@ -1,1 +1,0 @@
-{"name":"BSL Mainnet","network_type":"eip155","chain_id":"21912","symbol":"ONF","native_asset":null,"decimals":18,"rpc_urls":["http://rpc-mainnet.nftruth.io:8545","ws://rpc-mainnet.nftruth.io:8645"],"selected_rpc_url":0,"explorers":[{"name":"BSL Mainnet Explorer","url":"https://scan.nftruth.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

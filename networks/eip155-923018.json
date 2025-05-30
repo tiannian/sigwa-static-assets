@@ -1,1 +1,0 @@
-{"name":"FNCY Testnet","network_type":"eip155","chain_id":"923018","symbol":"FNCY","native_asset":null,"decimals":18,"rpc_urls":["https://fncy-testnet-seed.fncy.world"],"selected_rpc_url":0,"explorers":[{"name":"fncy scan testnet","url":"https://fncyscan-testnet.fncy.world","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

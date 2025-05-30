@@ -1,1 +1,0 @@
-{"name":"QL1 Testnet","network_type":"eip155","chain_id":"7668378","symbol":"QOM","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.qom.one"],"selected_rpc_url":0,"explorers":[{"name":"QL1 Testnet Explorer","url":"https://testnet.qom.one","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

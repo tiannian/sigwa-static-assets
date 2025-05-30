@@ -1,1 +1,0 @@
-{"name":"Waterfall 9 Test Network","network_type":"eip155","chain_id":"1501869","symbol":"WATER","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet9.waterfall.network"],"selected_rpc_url":0,"explorers":[{"name":"Waterfall Explorer Testnet9","url":"https://explorer.testnet9.waterfall.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

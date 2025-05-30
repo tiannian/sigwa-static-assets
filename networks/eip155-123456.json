@@ -1,1 +1,0 @@
-{"name":"ADIL Devnet","network_type":"eip155","chain_id":"123456","symbol":"ADIL","native_asset":null,"decimals":18,"rpc_urls":["https://devnet.adilchain-rpc.io"],"selected_rpc_url":0,"explorers":[{"name":"ADIL Devnet Explorer","url":"https://devnet.adilchain-scan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

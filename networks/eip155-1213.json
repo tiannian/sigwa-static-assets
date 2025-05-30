@@ -1,1 +1,0 @@
-{"name":"Popcateum Mainnet","network_type":"eip155","chain_id":"1213","symbol":"POP","native_asset":null,"decimals":18,"rpc_urls":["https://dataseed.popcateum.org"],"selected_rpc_url":0,"explorers":[{"name":"popcateum explorer","url":"https://explorer.popcateum.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

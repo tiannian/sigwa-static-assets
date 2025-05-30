@@ -1,1 +1,0 @@
-{"name":"MFEV CHAIN MAINNET","network_type":"eip155","chain_id":"9982","symbol":"MFEV","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.mfevscan.com"],"selected_rpc_url":0,"explorers":[{"name":"MFEV CHAIN","url":"https://mfevscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":108,"icon":null}

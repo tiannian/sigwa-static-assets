@@ -1,1 +1,0 @@
-{"name":"Elastos Smart Chain Testnet","network_type":"eip155","chain_id":"21","symbol":"tELA","native_asset":null,"decimals":18,"rpc_urls":["https://api-testnet.elastos.io/eth"],"selected_rpc_url":0,"explorers":[{"name":"elastos esc explorer","url":"https://esc-testnet.elastos.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

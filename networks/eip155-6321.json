@@ -1,1 +1,0 @@
-{"name":"Aura Euphoria Testnet","network_type":"eip155","chain_id":"6321","symbol":"eAura","native_asset":null,"decimals":18,"rpc_urls":["https://jsonrpc.euphoria.aura.network"],"selected_rpc_url":0,"explorers":[{"name":"Aurascan Explorer","url":"https://euphoria.aurascan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

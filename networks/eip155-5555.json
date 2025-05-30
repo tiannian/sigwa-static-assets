@@ -1,1 +1,0 @@
-{"name":"Chain Verse Mainnet","network_type":"eip155","chain_id":"5555","symbol":"OAS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.chainverse.info"],"selected_rpc_url":0,"explorers":[{"name":"Chain Verse Explorer","url":"https://explorer.chainverse.info","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

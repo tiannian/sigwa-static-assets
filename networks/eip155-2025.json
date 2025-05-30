@@ -1,1 +1,0 @@
-{"name":"Rangers Protocol Mainnet","network_type":"eip155","chain_id":"2025","symbol":"RPG","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.rangersprotocol.com/api/jsonrpc"],"selected_rpc_url":0,"explorers":[{"name":"rangersscan","url":"https://scan.rangersprotocol.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1008,"icon":null}

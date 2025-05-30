@@ -1,1 +1,0 @@
-{"name":"Autobahn Network","network_type":"eip155","chain_id":"45000","symbol":"TXL","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.autobahn.network"],"selected_rpc_url":0,"explorers":[{"name":"autobahn explorer","url":"https://explorer.autobahn.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

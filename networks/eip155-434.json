@@ -1,1 +1,0 @@
-{"name":"Boyaa Mainnet","network_type":"eip155","chain_id":"434","symbol":"BYC","native_asset":null,"decimals":18,"rpc_urls":["https://evm-rpc.mainnet.boyaa.network"],"selected_rpc_url":0,"explorers":[{"name":"Boyaa explorer","url":"https://explorer.mainnet.boyaa.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

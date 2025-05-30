@@ -1,1 +1,0 @@
-{"name":"Reapchain Testnet","network_type":"eip155","chain_id":"221231","symbol":"tREAP","native_asset":null,"decimals":18,"rpc_urls":["https://test-eth.reapchain.org"],"selected_rpc_url":0,"explorers":[{"name":"Reapchain Testnet Dashboard","url":"https://test-dashboard.reapchain.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

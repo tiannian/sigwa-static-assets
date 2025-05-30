@@ -1,1 +1,0 @@
-{"name":"Moonchain Geneva Testnet","network_type":"eip155","chain_id":"5167004","symbol":"MXC","native_asset":null,"decimals":18,"rpc_urls":["https://geneva-rpc.moonchain.com"],"selected_rpc_url":0,"explorers":[{"name":"Moonchain Geneva Testnet","url":"https://geneva-explorer.moonchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

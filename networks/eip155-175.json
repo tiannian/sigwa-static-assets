@@ -1,1 +1,0 @@
-{"name":"OTC","network_type":"eip155","chain_id":"175","symbol":"OTC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.otc.run","wss://rpc.otc.run"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":511,"icon":null}

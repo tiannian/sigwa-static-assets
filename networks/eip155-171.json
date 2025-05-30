@@ -1,1 +1,0 @@
-{"name":"CO2e Chain","network_type":"eip155","chain_id":"171","symbol":"CO2E","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.co2e.cc","https://rpc.co2ledger.xyz"],"selected_rpc_url":0,"explorers":[{"name":"CO2e Explorer","url":"https://exp.co2e.cc","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

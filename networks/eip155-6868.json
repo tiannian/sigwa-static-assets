@@ -1,1 +1,0 @@
-{"name":"Pools Mainnet","network_type":"eip155","chain_id":"6868","symbol":"POOLS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.poolsmobility.com"],"selected_rpc_url":0,"explorers":[{"name":"poolsscan","url":"https://scan.poolsmobility.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":6868,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"ZEUS Mainnet","network_type":"eip155","chain_id":"34504","symbol":"ZEUSX","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.zeuschainscan.io"],"selected_rpc_url":0,"explorers":[{"name":"ZEUS Mainnet Explorer","url":"https://zeuschainscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

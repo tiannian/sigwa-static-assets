@@ -1,1 +1,0 @@
-{"name":"pectra-devnet-5","network_type":"eip155","chain_id":"7088110746","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.pectra-devnet-5.ethpandaops.io"],"selected_rpc_url":0,"explorers":[{"name":"Explorer","url":"https://explorer.pectra-devnet-5.ethpandaops.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

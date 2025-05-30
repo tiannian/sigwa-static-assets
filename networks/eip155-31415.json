@@ -1,1 +1,0 @@
-{"name":"Wirex Pay Mainnet","network_type":"eip155","chain_id":"31415","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.wirexpaychain.com"],"selected_rpc_url":0,"explorers":[{"name":"Wirex Pay Explorer","url":"https://blockscout.wirexpaychain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

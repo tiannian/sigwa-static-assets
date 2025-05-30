@@ -1,1 +1,0 @@
-{"name":"Pyrope Testnet","network_type":"eip155","chain_id":"695569","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.pyropechain.com","wss://rpc.pyropechain.com"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://pyrope.blockscout.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

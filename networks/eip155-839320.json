@@ -1,1 +1,0 @@
-{"name":"PRM Testnet","network_type":"eip155","chain_id":"839320","symbol":"PRM","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.prmscan.org"],"selected_rpc_url":0,"explorers":[{"name":"Primal Network Testnet","url":"https://testnet-explorer.prmscan.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

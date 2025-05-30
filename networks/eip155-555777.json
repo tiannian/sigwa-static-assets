@@ -1,1 +1,0 @@
-{"name":"Xsolla ZK Sepolia Testnet","network_type":"eip155","chain_id":"555777","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://zkrpc-sepolia.xsollazk.com"],"selected_rpc_url":0,"explorers":[{"name":"Xsolla ZK Sepolia Block Explorer","url":"https://x.la/explorer","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

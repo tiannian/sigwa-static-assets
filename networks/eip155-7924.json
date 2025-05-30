@@ -1,1 +1,0 @@
-{"name":"MO Mainnet","network_type":"eip155","chain_id":"7924","symbol":"MO","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.mochain.app"],"selected_rpc_url":0,"explorers":[{"name":"MO Explorer","url":"https://moscan.app","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

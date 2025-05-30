@@ -1,1 +1,0 @@
-{"name":"BlockEx Mainnet","network_type":"eip155","chain_id":"221","symbol":"XBE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.blockex.biz"],"selected_rpc_url":0,"explorers":[{"name":"BlockEx Scan","url":"http://explorer.blockex.biz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

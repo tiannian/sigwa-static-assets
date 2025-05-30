@@ -1,1 +1,0 @@
-{"name":"SPS","network_type":"eip155","chain_id":"13000","symbol":"ECG","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.ssquad.games"],"selected_rpc_url":0,"explorers":[{"name":"SPS Explorer","url":"http://spsscan.ssquad.games","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Openpiece Testnet","network_type":"eip155","chain_id":"141","symbol":"BELLY","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.openpiece.io"],"selected_rpc_url":0,"explorers":[{"name":"Belly Scan","url":"https://testnet.bellyscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

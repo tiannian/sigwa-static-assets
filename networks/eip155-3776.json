@@ -1,1 +1,0 @@
-{"name":"Astar zkEVM","network_type":"eip155","chain_id":"3776","symbol":"ETH","native_asset":"weth","decimals":18,"rpc_urls":["https://rpc.startale.com/astar-zkevm"],"selected_rpc_url":0,"explorers":[{"name":"Blockscout Astar zkEVM explorer","url":"https://astar-zkevm.explorer.startale.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-3776.png"}

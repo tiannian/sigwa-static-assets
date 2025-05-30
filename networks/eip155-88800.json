@@ -1,1 +1,0 @@
-{"name":"ZKasino Mainnet","network_type":"eip155","chain_id":"88800","symbol":"ZKAS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.zkas.zeeve.net"],"selected_rpc_url":0,"explorers":[{"name":"Tracehawk","url":"https://explorer.zkas.zeeve.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

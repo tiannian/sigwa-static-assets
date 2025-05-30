@@ -1,1 +1,0 @@
-{"name":"Blockchain Genesis Mainnet","network_type":"eip155","chain_id":"10101","symbol":"GEN","native_asset":null,"decimals":18,"rpc_urls":["https://eu.mainnet.xixoio.com","https://us.mainnet.xixoio.com","https://asia.mainnet.xixoio.com"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"LoopNetwork Mainnet","network_type":"eip155","chain_id":"15551","symbol":"LOOP","native_asset":null,"decimals":18,"rpc_urls":["https://api.mainnetloop.com"],"selected_rpc_url":0,"explorers":[{"name":"loopscan","url":"http://explorer.mainnetloop.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

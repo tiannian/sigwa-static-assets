@@ -1,1 +1,0 @@
-{"name":"Nordek Mainnet","network_type":"eip155","chain_id":"81041","symbol":"NRK","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.nordekscan.com"],"selected_rpc_url":0,"explorers":[{"name":"nordek","url":"https://nordekscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

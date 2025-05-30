@@ -1,1 +1,0 @@
-{"name":"Fusion Mainnet","network_type":"eip155","chain_id":"32659","symbol":"FSN","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.fusionnetwork.io","wss://mainnet.fusionnetwork.io"],"selected_rpc_url":0,"explorers":[{"name":"fsnscan","url":"https://fsnscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":288,"icon":null}

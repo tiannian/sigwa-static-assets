@@ -1,1 +1,0 @@
-{"name":"Energy Web Chain","network_type":"eip155","chain_id":"246","symbol":"EWT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.energyweb.org","wss://rpc.energyweb.org/ws"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://explorer.energyweb.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":246,"icon":null}

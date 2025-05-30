@@ -1,1 +1,0 @@
-{"name":"VEMP Horizon","network_type":"eip155","chain_id":"82614","symbol":"VEMP","native_asset":null,"decimals":18,"rpc_urls":["https://vemp-horizon.calderachain.xyz/http"],"selected_rpc_url":0,"explorers":[{"name":"VEMP Horizon Caldera Explorer","url":"https://vemp-horizon.calderaexplorer.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,1 +1,0 @@
-{"name":"Unite Testnet","network_type":"eip155","chain_id":"888991","symbol":"UNITE","native_asset":null,"decimals":18,"rpc_urls":["https://unite-testnet.g.alchemy.com/public"],"selected_rpc_url":0,"explorers":[{"name":"Unite Testnet Explorer","url":"https://unite-testnet.explorer.alchemy.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

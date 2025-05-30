@@ -1,1 +1,0 @@
-{"name":"VeChain Testnet","network_type":"eip155","chain_id":"100010","symbol":"VET","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.vechain.energy"],"selected_rpc_url":0,"explorers":[{"name":"VeChain Explorer","url":"https://explore-testnet.vechain.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

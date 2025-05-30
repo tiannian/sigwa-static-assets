@@ -1,1 +1,0 @@
-{"name":"Hybrid Chain Network Testnet","network_type":"eip155","chain_id":"2458","symbol":"tHRC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.hybridchain.ai"],"selected_rpc_url":0,"explorers":[{"name":"Hybrid Chain Explorer Testnet","url":"https://testnet.hybridscan.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

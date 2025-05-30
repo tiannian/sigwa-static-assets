@@ -1,1 +1,0 @@
-{"name":"Mande Network Mainnet","network_type":"eip155","chain_id":"18071918","symbol":"MAND","native_asset":null,"decimals":18,"rpc_urls":["https://mande-mainnet.public.blastapi.io"],"selected_rpc_url":0,"explorers":[{"name":"FYI","url":"https://dym.fyi/r/mande","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

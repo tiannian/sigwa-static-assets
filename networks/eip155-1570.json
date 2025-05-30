@@ -1,1 +1,0 @@
-{"name":"StarCHAIN Testnet","network_type":"eip155","chain_id":"1570","symbol":"STARX","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc1.starworksglobal.com"],"selected_rpc_url":0,"explorers":[{"name":"StarCHAIN Explorer","url":"https://testnet.starchainscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

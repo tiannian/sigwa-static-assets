@@ -1,1 +1,0 @@
-{"name":"Vitruveo Mainnet","network_type":"eip155","chain_id":"1490","symbol":"VTRU","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.vitruveo.xyz"],"selected_rpc_url":0,"explorers":[{"name":"Vitruveo Explorer","url":"https://explorer.vitruveo.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}
