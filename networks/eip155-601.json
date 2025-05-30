@@ -1,0 +1,1 @@
+{"name":"Vine Testnet","network_type":"eip155","chain_id":"601","symbol":"VNE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.vne.network"],"selected_rpc_url":0,"explorers":[{"name":"Vine Explorer","url":"https://vne.network/rose","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

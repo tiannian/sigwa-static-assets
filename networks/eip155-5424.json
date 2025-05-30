@@ -1,0 +1,1 @@
+{"name":"edeXa Mainnet","network_type":"eip155","chain_id":"5424","symbol":"EDX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.edexa.network","https://rpc.edexa.com"],"selected_rpc_url":0,"explorers":[{"name":"edexa-mainnet-explorer","url":"https://explorer.edexa.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Arcadia Mainnet","network_type":"eip155","chain_id":"4278608","symbol":"AIP","native_asset":null,"decimals":18,"rpc_urls":["https://arcadia.khalani.network"],"selected_rpc_url":0,"explorers":[{"name":"Arcadia Mainnet Explorer","url":"https://explorer.arcadia.khalani.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

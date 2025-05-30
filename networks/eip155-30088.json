@@ -1,0 +1,1 @@
+{"name":"MiYou Mainnet","network_type":"eip155","chain_id":"30088","symbol":"MY","native_asset":null,"decimals":18,"rpc_urls":["https://blockchain.miyou.io","https://blockchain.miyoulab.com"],"selected_rpc_url":0,"explorers":[{"name":"MiYou block explorer","url":"https://myscan.miyou.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":60,"icon":null}

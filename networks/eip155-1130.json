@@ -1,0 +1,1 @@
+{"name":"DeFiChain EVM Network Mainnet","network_type":"eip155","chain_id":"1130","symbol":"DFI","native_asset":"defichain","decimals":18,"rpc_urls":["https://dmc.mydefichain.com/mainnet","https://dmc01.mydefichain.com/mainnet"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":1130,"icon":"eip155-1130.png"}

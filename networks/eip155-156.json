@@ -1,0 +1,1 @@
+{"name":"OEBlock Testnet","network_type":"eip155","chain_id":"156","symbol":"OEB","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.oeblock.com"],"selected_rpc_url":0,"explorers":[{"name":"OEScan explorer","url":"https://testnet.oescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

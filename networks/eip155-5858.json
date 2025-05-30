@@ -1,0 +1,1 @@
+{"name":"Chang Chain Foundation Mainnet","network_type":"eip155","chain_id":"5858","symbol":"CTH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.cthscan.com"],"selected_rpc_url":0,"explorers":[{"name":"CTH Scan","url":"https://cthscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"NEAR Protocol","network_type":"eip155","chain_id":"397","symbol":"NEAR","native_asset":null,"decimals":18,"rpc_urls":["https://eth-rpc.mainnet.near.org"],"selected_rpc_url":0,"explorers":[{"name":"NEAR Explorer","url":"https://eth-explorer.near.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

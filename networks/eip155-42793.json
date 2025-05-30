@@ -1,0 +1,1 @@
+{"name":"Etherlink Mainnet","network_type":"eip155","chain_id":"42793","symbol":"XTZ","native_asset":"tezos","decimals":18,"rpc_urls":["https://node.mainnet.etherlink.com"],"selected_rpc_url":0,"explorers":[{"name":"Etherlink Explorer","url":"https://explorer.etherlink.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-42793.png"}

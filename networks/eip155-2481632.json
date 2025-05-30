@@ -1,0 +1,1 @@
+{"name":"Recall Testnet","network_type":"eip155","chain_id":"2481632","symbol":"RECALL","native_asset":null,"decimals":18,"rpc_urls":["https://evm.v013.node-0.testnet.recall.network"],"selected_rpc_url":0,"explorers":[{"name":"Recall testnet explorer","url":"https://explorer.testnet.recall.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Pentagon Testnet","network_type":"eip155","chain_id":"555555","symbol":"PEN","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.pentagon.games"],"selected_rpc_url":0,"explorers":[{"name":"Pentagon Testnet Explorer","url":"https://explorer-testnet.pentagon.games","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

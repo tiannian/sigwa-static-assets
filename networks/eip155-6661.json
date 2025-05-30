@@ -1,0 +1,1 @@
+{"name":"Cybria Mainnet","network_type":"eip155","chain_id":"6661","symbol":"CYBA","native_asset":"wrapped-cybria","decimals":18,"rpc_urls":["https://rpc-mainnet.cybria.io"],"selected_rpc_url":0,"explorers":[{"name":"Cybria Explorer","url":"https://cybascan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-6661.png"}

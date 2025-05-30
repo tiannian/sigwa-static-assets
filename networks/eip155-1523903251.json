@@ -1,0 +1,1 @@
+{"name":"Haust Network Testnet","network_type":"eip155","chain_id":"1523903251","symbol":"HAUST","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.haust.app"],"selected_rpc_url":0,"explorers":[{"name":"Haust Network Testnet Explorer","url":"https://explorer-testnet.haust.app","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

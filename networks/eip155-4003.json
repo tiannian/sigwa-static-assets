@@ -1,0 +1,1 @@
+{"name":"X1 Fastnet","network_type":"eip155","chain_id":"4003","symbol":"XN","native_asset":null,"decimals":18,"rpc_urls":["https://x1-fastnet.xen.network"],"selected_rpc_url":0,"explorers":[{"name":"Blockscout","url":"https://explorer.x1-fastnet.xen.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

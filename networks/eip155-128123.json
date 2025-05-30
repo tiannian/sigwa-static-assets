@@ -1,0 +1,1 @@
+{"name":"Etherlink Testnet","network_type":"eip155","chain_id":"128123","symbol":"XTZ","native_asset":null,"decimals":18,"rpc_urls":["https://node.ghostnet.etherlink.com"],"selected_rpc_url":0,"explorers":[{"name":"Etherlink Testnet Explorer","url":"https://testnet-explorer.etherlink.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

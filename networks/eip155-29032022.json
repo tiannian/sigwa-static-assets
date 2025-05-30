@@ -1,0 +1,1 @@
+{"name":"Flachain Mainnet","network_type":"eip155","chain_id":"29032022","symbol":"FLA","native_asset":null,"decimals":18,"rpc_urls":["https://flachain.flaexchange.top"],"selected_rpc_url":0,"explorers":[{"name":"FLXExplorer","url":"https://explorer.flaexchange.top","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

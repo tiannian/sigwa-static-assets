@@ -1,0 +1,1 @@
+{"name":"LACHAIN Testnet","network_type":"eip155","chain_id":"226","symbol":"TLA","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.lachain.io"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://scan-test.lachain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

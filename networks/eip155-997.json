@@ -1,0 +1,1 @@
+{"name":"5ireChain Thunder Testnet","network_type":"eip155","chain_id":"997","symbol":"T5IRE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.5ire.network"],"selected_rpc_url":0,"explorers":[{"name":"5ireChain Testnet Explorer","url":"https://testnet.5irescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

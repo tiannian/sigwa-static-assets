@@ -1,0 +1,1 @@
+{"name":"ONINO Mainnet","network_type":"eip155","chain_id":"1425","symbol":"ONI","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.onino.io"],"selected_rpc_url":0,"explorers":[{"name":"onino","url":"https://explorer.onino.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

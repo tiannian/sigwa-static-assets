@@ -1,0 +1,1 @@
+{"name":"Thinkium Mainnet Chain 1","network_type":"eip155","chain_id":"70001","symbol":"TKM","native_asset":null,"decimals":18,"rpc_urls":["https://proxy1.thinkiumrpc.net"],"selected_rpc_url":0,"explorers":[{"name":"thinkiumscan","url":"https://chain1.thinkiumscan.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

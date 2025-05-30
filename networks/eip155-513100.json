@@ -1,0 +1,1 @@
+{"name":"EthereumFair","network_type":"eip155","chain_id":"513100","symbol":"ETHF","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.etherfair.org"],"selected_rpc_url":0,"explorers":[{"name":"EthereumFair","url":"https://www.oklink.com/ethf","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

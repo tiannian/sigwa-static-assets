@@ -1,0 +1,1 @@
+{"name":"HAPchain","network_type":"eip155","chain_id":"8794598","symbol":"HAP","native_asset":null,"decimals":18,"rpc_urls":["https://jsonrpc.hap.land"],"selected_rpc_url":0,"explorers":[{"name":"HAP EVM Explorer (Blockscout)","url":"https://blockscout.hap.land","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

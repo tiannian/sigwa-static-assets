@@ -1,0 +1,1 @@
+{"name":"Paribu Net Mainnet","network_type":"eip155","chain_id":"3400","symbol":"PRB","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.paribu.network"],"selected_rpc_url":0,"explorers":[{"name":"Paribu Net Explorer","url":"https://explorer.paribu.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

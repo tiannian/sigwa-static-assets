@@ -1,0 +1,1 @@
+{"name":"Rarimo","network_type":"eip155","chain_id":"7368","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://l2.rarimo.com","wss://wss.l2.rarimo.com"],"selected_rpc_url":0,"explorers":[{"name":"Blockscout","url":"https://scan.rarimo.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

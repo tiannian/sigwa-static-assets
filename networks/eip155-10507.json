@@ -1,0 +1,1 @@
+{"name":"Numbers Mainnet","network_type":"eip155","chain_id":"10507","symbol":"NUM","native_asset":null,"decimals":18,"rpc_urls":["https://mainnetrpc.num.network"],"selected_rpc_url":0,"explorers":[{"name":"ethernal","url":"https://mainnet.num.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

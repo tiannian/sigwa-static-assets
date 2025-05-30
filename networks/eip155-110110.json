@@ -1,0 +1,1 @@
+{"name":"Mars Credit","network_type":"eip155","chain_id":"110110","symbol":"MARS","native_asset":null,"decimals":18,"rpc_urls":["https://node99-production-dd5f.up.railway.app:443","https://rpc.marscredit.xyz:443"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":1,"icon":null}

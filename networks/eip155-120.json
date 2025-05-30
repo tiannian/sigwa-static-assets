@@ -1,0 +1,1 @@
+{"name":"ENULS Testnet","network_type":"eip155","chain_id":"120","symbol":"NULS","native_asset":null,"decimals":18,"rpc_urls":["https://beta.evmapi.nuls.io","https://beta.evmapi2.nuls.io"],"selected_rpc_url":0,"explorers":[{"name":"enulsscan","url":"https://beta.evmscan.nuls.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

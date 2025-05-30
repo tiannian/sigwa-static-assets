@@ -1,0 +1,1 @@
+{"name":"Smart Layer Network","network_type":"eip155","chain_id":"5169","symbol":"SU","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.main.smartlayer.network"],"selected_rpc_url":0,"explorers":[{"name":"SLN Mainnet Explorer","url":"https://explorer.main.smartlayer.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

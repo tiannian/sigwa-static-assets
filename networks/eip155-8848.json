@@ -1,0 +1,1 @@
+{"name":"MARO Blockchain Mainnet","network_type":"eip155","chain_id":"8848","symbol":"MARO","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-mainnet.ma.ro"],"selected_rpc_url":0,"explorers":[{"name":"MARO Scan","url":"https://scan.ma.ro/#","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

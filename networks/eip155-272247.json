@@ -1,0 +1,1 @@
+{"name":"Nxy Area 51","network_type":"eip155","chain_id":"272247","symbol":"NXY","native_asset":null,"decimals":18,"rpc_urls":["https://nxy.social/testnet"],"selected_rpc_url":0,"explorers":[{"name":"Nxy Explorer","url":"https://explorer.nxy.social","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":272247,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Orange Chain Testnet","network_type":"eip155","chain_id":"240515","symbol":"BTC","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.orangechain.xyz"],"selected_rpc_url":0,"explorers":[{"name":"Blockscout","url":"https://testnet-scan.orangechain.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Nexi V2 Mainnet","network_type":"eip155","chain_id":"4243","symbol":"NEXI","native_asset":null,"decimals":18,"rpc_urls":["https://chain.nexiv2.nexilix.com","https://rpc.chainv1.nexi.technology"],"selected_rpc_url":0,"explorers":[{"name":"nexiscan","url":"https://www.nexiscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":2500,"icon":null}

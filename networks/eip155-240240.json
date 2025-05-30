@@ -1,0 +1,1 @@
+{"name":"Studio Testnet","network_type":"eip155","chain_id":"240240","symbol":"STO","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.studio-blockchain.com","wss://ws.studio-blockchain.com"],"selected_rpc_url":0,"explorers":[{"name":"Studio Scan","url":"https://studio-scan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

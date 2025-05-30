@@ -1,0 +1,1 @@
+{"name":"0XTade","network_type":"eip155","chain_id":"10248","symbol":"0XT","native_asset":null,"decimals":18,"rpc_urls":["https://node.0xtchain.com"],"selected_rpc_url":0,"explorers":[{"name":"0xtrade Scan","url":"https://www.0xtscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

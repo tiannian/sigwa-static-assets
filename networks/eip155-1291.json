@@ -1,0 +1,1 @@
+{"name":"Swisstronik Testnet","network_type":"eip155","chain_id":"1291","symbol":"SWTR","native_asset":null,"decimals":18,"rpc_urls":["https://json-rpc.testnet.swisstronik.com"],"selected_rpc_url":0,"explorers":[{"name":"Swisstronik Scout","url":"https://explorer-evm.testnet.swisstronik.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

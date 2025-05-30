@@ -1,0 +1,1 @@
+{"name":"Tucana","network_type":"eip155","chain_id":"711","symbol":"TUC","native_asset":null,"decimals":18,"rpc_urls":["https://evm-rpc.tucana.zone","wss://evm-ws.tucana.zone"],"selected_rpc_url":0,"explorers":[{"name":"Tucana Explorer","url":"https://explorer.tucana.zone","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"ShimmerEVM","network_type":"eip155","chain_id":"148","symbol":"SMR","native_asset":"shimmer","decimals":18,"rpc_urls":["https://json-rpc.evm.shimmer.network"],"selected_rpc_url":0,"explorers":[{"name":"explorer","url":"https://explorer.evm.shimmer.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-148.png"}

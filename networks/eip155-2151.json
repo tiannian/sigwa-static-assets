@@ -1,0 +1,1 @@
+{"name":"BOSagora Mainnet","network_type":"eip155","chain_id":"2151","symbol":"BOA","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.bosagora.org","https://rpc.bosagora.org"],"selected_rpc_url":0,"explorers":[{"name":"BOASCAN","url":"https://boascan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

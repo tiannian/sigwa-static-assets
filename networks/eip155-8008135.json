@@ -1,0 +1,1 @@
+{"name":"Fhenix Helium","network_type":"eip155","chain_id":"8008135","symbol":"tFHE","native_asset":null,"decimals":18,"rpc_urls":["https://api.helium.fhenix.zone"],"selected_rpc_url":0,"explorers":[{"name":"Fhenix Helium Explorer (Blockscout)","url":"https://explorer.helium.fhenix.zone","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

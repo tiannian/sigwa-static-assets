@@ -1,0 +1,1 @@
+{"name":"BEVM Testnet","network_type":"eip155","chain_id":"11503","symbol":"BTC","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.bevm.io"],"selected_rpc_url":0,"explorers":[{"name":"bevm testnet scan","url":"https://scan-testnet.bevm.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

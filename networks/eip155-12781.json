@@ -1,0 +1,1 @@
+{"name":"Playdapp Testnet","network_type":"eip155","chain_id":"12781","symbol":"PDA","native_asset":null,"decimals":18,"rpc_urls":["https://subnets.avax.network/playdappte/testnet/rpc"],"selected_rpc_url":0,"explorers":[{"name":"Playdapp Testnet Explorer","url":"https://subnets-test.avax.network/playdappte","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

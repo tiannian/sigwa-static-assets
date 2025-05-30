@@ -1,0 +1,1 @@
+{"name":"TAPROOT Mainnet","network_type":"eip155","chain_id":"911","symbol":"TBTC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.taprootchain.io"],"selected_rpc_url":0,"explorers":[{"name":"TAPROOT Scan","url":"https://scan.taprootchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

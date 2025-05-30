@@ -1,0 +1,1 @@
+{"name":"DuckChain Mainnet","network_type":"eip155","chain_id":"5545","symbol":"TON","native_asset":"the-open-network","decimals":18,"rpc_urls":["https://rpc.duckchain.io","https://rpc-hk.duckchain.io"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":"eip155-5545.png"}

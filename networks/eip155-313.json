@@ -1,0 +1,1 @@
+{"name":"Neurochain Mainnet","network_type":"eip155","chain_id":"313","symbol":"NCN","native_asset":null,"decimals":18,"rpc_urls":["https://nc-rpc-prd1.neurochain.io","https://nc-rpc-prd2.neurochain.io"],"selected_rpc_url":0,"explorers":[{"name":"neuroscan","url":"https://ncnscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

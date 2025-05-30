@@ -1,0 +1,1 @@
+{"name":"Litheum Test Network","network_type":"eip155","chain_id":"1174","symbol":"LTH","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.litheum.com"],"selected_rpc_url":0,"explorers":[{"name":"Litheum Test Network Explorer","url":"https://explorer.litheum.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

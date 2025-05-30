@@ -1,0 +1,1 @@
+{"name":"OptimusZ7 Mainnet","network_type":"eip155","chain_id":"9797","symbol":"OZ7","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.optimusz7.com"],"selected_rpc_url":0,"explorers":[{"name":"OptimusZ7 Mainnet Explorer","url":"https://explorer.optimusz7.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

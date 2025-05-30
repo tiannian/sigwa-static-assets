@@ -1,0 +1,1 @@
+{"name":"SX Network Testnet","network_type":"eip155","chain_id":"647","symbol":"SX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.toronto.sx.technology"],"selected_rpc_url":0,"explorers":[{"name":"SX Network Toronto Explorer","url":"https://explorer.toronto.sx.technology","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"REI Chain Mainnet","network_type":"eip155","chain_id":"55555","symbol":"REI","native_asset":null,"decimals":18,"rpc_urls":["https://rei-rpc.moonrhythm.io"],"selected_rpc_url":0,"explorers":[{"name":"reiscan","url":"https://reiscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

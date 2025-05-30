@@ -1,0 +1,1 @@
+{"name":"Six Protocol","network_type":"eip155","chain_id":"98","symbol":"SIX","native_asset":null,"decimals":18,"rpc_urls":["https://sixnet-rpc-evm.sixprotocol.net"],"selected_rpc_url":0,"explorers":[{"name":"SIX Scan","url":"https://sixscan.io/sixnet","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

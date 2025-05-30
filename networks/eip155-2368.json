@@ -1,0 +1,1 @@
+{"name":"KiteAI Testnet","network_type":"eip155","chain_id":"2368","symbol":"KITE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.gokite.ai"],"selected_rpc_url":0,"explorers":[{"name":"Kitescan","url":"https://testnet.kitescan.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

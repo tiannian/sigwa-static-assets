@@ -1,0 +1,1 @@
+{"name":"Tron Shasta","network_type":"eip155","chain_id":"2494104990","symbol":"TRX","native_asset":null,"decimals":6,"rpc_urls":["https://api.shasta.trongrid.io/jsonrpc"],"selected_rpc_url":0,"explorers":[{"name":"shasta tronscan","url":"https://shasta.tronscan.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Zilliqa EVM","network_type":"eip155","chain_id":"32769","symbol":"ZIL","native_asset":"zilliqa","decimals":18,"rpc_urls":["https://api.zilliqa.com"],"selected_rpc_url":0,"explorers":[{"name":"Zilliqa EVM Explorer","url":"https://evmx.zilliqa.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-32769.png"}

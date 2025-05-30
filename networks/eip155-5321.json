@@ -1,0 +1,1 @@
+{"name":"ITX Testnet","network_type":"eip155","chain_id":"5321","symbol":"ITX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.itxchain.com"],"selected_rpc_url":0,"explorers":[{"name":"ITX Testnet Explorer (Blockscout)","url":"https://explorer.testnet.itxchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

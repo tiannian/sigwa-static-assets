@@ -1,0 +1,1 @@
+{"name":"XODEX","network_type":"eip155","chain_id":"2415","symbol":"XODEX","native_asset":"xodex","decimals":18,"rpc_urls":["https://mainnet.xo-dex.com/rpc","https://xo-dex.io"],"selected_rpc_url":0,"explorers":[{"name":"XODEX Explorer","url":"https://explorer.xo-dex.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-2415.png"}

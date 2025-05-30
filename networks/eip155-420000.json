@@ -1,0 +1,1 @@
+{"name":"Infinaeon","network_type":"eip155","chain_id":"420000","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.infinaeon.com"],"selected_rpc_url":0,"explorers":[{"name":"tracehawk","url":"https://explorer.infinaeon.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

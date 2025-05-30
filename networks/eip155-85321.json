@@ -1,0 +1,1 @@
+{"name":"GDPR Testnet","network_type":"eip155","chain_id":"85321","symbol":"GDPR","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.gdprchain.com"],"selected_rpc_url":0,"explorers":[{"name":"GDPR Testnet Explorer (Blockscout)","url":"https://explorer.testnet.gdprchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

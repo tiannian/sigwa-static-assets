@@ -1,0 +1,1 @@
+{"name":"Guru Network","network_type":"eip155","chain_id":"260","symbol":"GURU","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-main.gurunetwork.ai"],"selected_rpc_url":0,"explorers":[{"name":"guruscan","url":"https://scan.gurunetwork.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

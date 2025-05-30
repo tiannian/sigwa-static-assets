@@ -1,0 +1,1 @@
+{"name":"RSS3 VSL Mainnet","network_type":"eip155","chain_id":"12553","symbol":"RSS3","native_asset":"rss3","decimals":18,"rpc_urls":["https://rpc.rss3.io"],"selected_rpc_url":0,"explorers":[{"name":"RSS3 VSL Scan","url":"https://scan.rss3.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-12553.png"}

@@ -1,0 +1,1 @@
+{"name":"Pho Blockchain Mainnet","network_type":"eip155","chain_id":"2605","symbol":"PHO","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.phochain.org"],"selected_rpc_url":0,"explorers":[{"name":"Pho Scan","url":"https://phoscan.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

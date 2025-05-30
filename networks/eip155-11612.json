@@ -1,0 +1,1 @@
+{"name":"Sardis Testnet","network_type":"eip155","chain_id":"11612","symbol":"SRDX","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.sardisnetwork.com"],"selected_rpc_url":0,"explorers":[{"name":"Sardis","url":"https://testnet.sardisnetwork.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

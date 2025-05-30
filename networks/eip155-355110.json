@@ -1,0 +1,1 @@
+{"name":"Bitfinity Network Mainnet","network_type":"eip155","chain_id":"355110","symbol":"BTF","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.bitfinity.network"],"selected_rpc_url":0,"explorers":[{"name":"Bitfinity Mainnet Block Explorer","url":"https://explorer.mainnet.bitfinity.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

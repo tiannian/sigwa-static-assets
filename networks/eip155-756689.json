@@ -1,0 +1,1 @@
+{"name":"PAYSCAN CHAIN","network_type":"eip155","chain_id":"756689","symbol":"PYZ","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.payscan.live"],"selected_rpc_url":0,"explorers":[{"name":"PAYSCAN CHAIN","url":"https://payscan.live","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":108,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Omax Mainnet","network_type":"eip155","chain_id":"311","symbol":"OMAX","native_asset":"omax-token","decimals":18,"rpc_urls":["https://mainapi.omaxray.com","https://mainapi.omaxscan.com"],"selected_rpc_url":0,"explorers":[{"name":"Omax Chain Explorer","url":"https://omaxray.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-311.png"}

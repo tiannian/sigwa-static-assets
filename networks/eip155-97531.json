@@ -1,0 +1,1 @@
+{"name":"Green Chain Testnet","network_type":"eip155","chain_id":"97531","symbol":"GREEN","native_asset":null,"decimals":18,"rpc_urls":["https://node.greenchain.app/rpc"],"selected_rpc_url":0,"explorers":[{"name":"Green Chain Explorer","url":"https://explorer.greenchain.app","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

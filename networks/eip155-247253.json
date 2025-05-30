@@ -1,0 +1,1 @@
+{"name":"Saakuru Testnet","network_type":"eip155","chain_id":"247253","symbol":"OAS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.saakuru.network"],"selected_rpc_url":0,"explorers":[{"name":"saakuru-explorer-testnet","url":"https://explorer-testnet.saakuru.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

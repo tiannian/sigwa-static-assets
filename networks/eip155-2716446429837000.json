@@ -1,0 +1,1 @@
+{"name":"DCHAIN","network_type":"eip155","chain_id":"2716446429837000","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://dchain-2716446429837000-1.jsonrpc.sagarpc.io"],"selected_rpc_url":0,"explorers":[{"name":"dchain scan","url":"https://dchain-2716446429837000-1.sagaexplorer.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

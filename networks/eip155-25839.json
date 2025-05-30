@@ -1,0 +1,1 @@
+{"name":"AlveyChain Testnet","network_type":"eip155","chain_id":"25839","symbol":"tALV","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.alvey.io"],"selected_rpc_url":0,"explorers":[{"name":"AlveyScan Testnet","url":"https://alveytestnet.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Vision - Mainnet","network_type":"eip155","chain_id":"888888","symbol":"VS","native_asset":null,"decimals":18,"rpc_urls":["https://infragrid.v.network/ethereum/compatible"],"selected_rpc_url":0,"explorers":[{"name":"Visionscan","url":"https://www.visionscan.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":60,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"MintMe.com Coin","network_type":"eip155","chain_id":"24734","symbol":"MINTME","native_asset":null,"decimals":18,"rpc_urls":["https://node1.mintme.com","https://node.1000x.ch","https://0xrpc.io/mint","wss://0xrpc.io/mint"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":null}

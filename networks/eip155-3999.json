@@ -1,0 +1,1 @@
+{"name":"YuanChain Mainnet","network_type":"eip155","chain_id":"3999","symbol":"YCC","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.yuan.org/eth"],"selected_rpc_url":0,"explorers":[{"name":"YuanChain Explorer","url":"https://mainnet.yuan.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"BC Hyper Chain Mainnet","network_type":"eip155","chain_id":"3030","symbol":"VTCN","native_asset":null,"decimals":18,"rpc_urls":["https://datahub-asia01.bchscan.io","https://mainapi.bchscan.io"],"selected_rpc_url":0,"explorers":[{"name":"bcexplorer mainnet","url":"https://bchscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Esports Chain","network_type":"eip155","chain_id":"17735","symbol":"ESPT","native_asset":null,"decimals":18,"rpc_urls":["https://esportsblock.org/rpc"],"selected_rpc_url":0,"explorers":[{"name":"esportsblock_explorer","url":"https://esportsblock.org/explorer","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

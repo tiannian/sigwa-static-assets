@@ -1,0 +1,1 @@
+{"name":"High Performance Blockchain","network_type":"eip155","chain_id":"269","symbol":"HPB","native_asset":null,"decimals":18,"rpc_urls":["https://hpbnode.com","wss://ws.hpbnode.com"],"selected_rpc_url":0,"explorers":[{"name":"hscan","url":"https://hscan.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":269,"icon":null}

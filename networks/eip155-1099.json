@@ -1,0 +1,1 @@
+{"name":"MOAC mainnet","network_type":"eip155","chain_id":"1099","symbol":"mc","native_asset":null,"decimals":18,"rpc_urls":[],"selected_rpc_url":0,"explorers":[{"name":"moac explorer","url":"https://explorer.moac.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":314,"icon":null}

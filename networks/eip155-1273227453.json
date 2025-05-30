@@ -1,0 +1,1 @@
+{"name":"HUMAN Protocol","network_type":"eip155","chain_id":"1273227453","symbol":"sFUEL","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.skalenodes.com/v1/wan-red-ain"],"selected_rpc_url":0,"explorers":[{"name":"Blockscout","url":"https://wan-red-ain.explorer.mainnet.skalenodes.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

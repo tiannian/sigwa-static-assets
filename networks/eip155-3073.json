@@ -1,0 +1,1 @@
+{"name":"Movement EVM","network_type":"eip155","chain_id":"3073","symbol":"MOVE","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.movementnetwork.xyz/v1","https://movement.lava.build"],"selected_rpc_url":0,"explorers":[{"name":"mevm explorer","url":"https://explorer.movementlabs.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

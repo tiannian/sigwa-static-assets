@@ -1,0 +1,1 @@
+{"name":"JFIN Chain","network_type":"eip155","chain_id":"3501","symbol":"JFIN","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.jfinchain.com","https://rpc.jfinchain.com"],"selected_rpc_url":0,"explorers":[{"name":"JFIN Chain Explorer","url":"https://exp.jfinchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

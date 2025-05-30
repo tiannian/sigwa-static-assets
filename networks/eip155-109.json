@@ -1,0 +1,1 @@
+{"name":"Shibarium","network_type":"eip155","chain_id":"109","symbol":"BONE","native_asset":null,"decimals":18,"rpc_urls":["https://www.shibrpc.com","https://rpc.shibrpc.com","https://shib.nownodes.io"],"selected_rpc_url":0,"explorers":[{"name":"shibariumscan","url":"https://www.shibariumscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

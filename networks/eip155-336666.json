@@ -1,0 +1,1 @@
+{"name":"UPchain Mainnet","network_type":"eip155","chain_id":"336666","symbol":"UBTC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.uniport.network"],"selected_rpc_url":0,"explorers":[{"name":"UPchain Mainnet Explorer","url":"https://explorer.uniport.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

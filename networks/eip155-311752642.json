@@ -1,0 +1,1 @@
+{"name":"OneLedger Mainnet","network_type":"eip155","chain_id":"311752642","symbol":"OLT","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.oneledger.network"],"selected_rpc_url":0,"explorers":[{"name":"OneLedger Block Explorer","url":"https://mainnet-explorer.oneledger.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

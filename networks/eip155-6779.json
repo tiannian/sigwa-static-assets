@@ -1,0 +1,1 @@
+{"name":"Compverse Mainnet","network_type":"eip155","chain_id":"6779","symbol":"CPV","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.compverse.io","https://rpc-useast1.compverse.io"],"selected_rpc_url":0,"explorers":[{"name":"cpvscan","url":"https://scan.compverse.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":7779,"icon":null}

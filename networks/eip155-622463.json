@@ -1,0 +1,1 @@
+{"name":"Atlas","network_type":"eip155","chain_id":"622463","symbol":"TON","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.atl.network"],"selected_rpc_url":0,"explorers":[{"name":"Atlas Testnet Scan","url":"https://explorer.testnet.atl.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

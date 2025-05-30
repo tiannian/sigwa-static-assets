@@ -1,0 +1,1 @@
+{"name":"Mammoth Mainnet","network_type":"eip155","chain_id":"8898","symbol":"MMT","native_asset":null,"decimals":18,"rpc_urls":["https://dataseed.mmtscan.io","https://dataseed1.mmtscan.io","https://dataseed2.mmtscan.io"],"selected_rpc_url":0,"explorers":[{"name":"mmtscan","url":"https://mmtscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

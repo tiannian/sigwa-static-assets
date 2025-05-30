@@ -1,0 +1,1 @@
+{"name":"Tabi Testnet","network_type":"eip155","chain_id":"9789","symbol":"TABI","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.tabichain.com"],"selected_rpc_url":0,"explorers":[{"name":"Tabi Testnet Explorer","url":"https://testnet.tabiscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

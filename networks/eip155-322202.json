@@ -1,0 +1,1 @@
+{"name":"Parex Mainnet","network_type":"eip155","chain_id":"322202","symbol":"PRX","native_asset":"parex","decimals":18,"rpc_urls":["https://mainnet-rpc.parex.network"],"selected_rpc_url":0,"explorers":[{"name":"Parex Mainnet Explorer","url":"https://scan.parex.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-322202.png"}

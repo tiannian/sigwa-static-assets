@@ -1,0 +1,1 @@
+{"name":"Findora Mainnet","network_type":"eip155","chain_id":"2152","symbol":"FRA","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-mainnet.findora.org"],"selected_rpc_url":0,"explorers":[{"name":"findorascan","url":"https://evm.findorascan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

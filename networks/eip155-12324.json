@@ -1,0 +1,1 @@
+{"name":"L3X Protocol","network_type":"eip155","chain_id":"12324","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-mainnet.l3x.com"],"selected_rpc_url":0,"explorers":[{"name":"L3X Mainnet Explorer","url":"https://explorer.l3x.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

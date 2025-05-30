@@ -1,0 +1,1 @@
+{"name":"Alph Network","network_type":"eip155","chain_id":"8738","symbol":"ALPH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.alph.network","wss://rpc.alph.network"],"selected_rpc_url":0,"explorers":[{"name":"alphscan","url":"https://explorer.alph.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

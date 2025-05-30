@@ -1,0 +1,1 @@
+{"name":"Neo X Testnet T4","network_type":"eip155","chain_id":"12227332","symbol":"GAS","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.rpc.banelabs.org"],"selected_rpc_url":0,"explorers":[{"name":"neox-scan","url":"https://xt4scan.ngd.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

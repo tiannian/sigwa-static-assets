@@ -1,0 +1,1 @@
+{"name":"Astra Sepolia","network_type":"eip155","chain_id":"19777","symbol":"ATX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-astra-9on2f72wzn.t.conduit.xyz"],"selected_rpc_url":0,"explorers":[{"name":"Astra Sepolia Explorer","url":"https://explorer-astra-9on2f72wzn.t.conduit.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

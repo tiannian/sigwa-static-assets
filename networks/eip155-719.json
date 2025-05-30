@@ -1,0 +1,1 @@
+{"name":"Shibarium Beta","network_type":"eip155","chain_id":"719","symbol":"BONE","native_asset":null,"decimals":18,"rpc_urls":["https://puppynet.shibrpc.com"],"selected_rpc_url":0,"explorers":[{"name":"shibscan","url":"https://puppyscan.shib.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

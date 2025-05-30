@@ -1,0 +1,1 @@
+{"name":"ALDChain Testnet","network_type":"eip155","chain_id":"96737205180","symbol":"ALD","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.aldrickb.xyz"],"selected_rpc_url":0,"explorers":[{"name":"ALDChain Testnet Explorer","url":"https://testnet-explorer.aldrickb.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

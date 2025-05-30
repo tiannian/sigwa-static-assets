@@ -1,0 +1,1 @@
+{"name":"CamDL Mainnet","network_type":"eip155","chain_id":"95","symbol":"CADL","native_asset":null,"decimals":18,"rpc_urls":["https://rpc1.camdl.gov.kh"],"selected_rpc_url":0,"explorers":[{"name":"CamDL Block Explorer","url":"https://explorer.camdl.gov.kh","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Xprotocol Testnet","network_type":"eip155","chain_id":"83144","symbol":"KICK","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.xprotocol.org"],"selected_rpc_url":0,"explorers":[{"name":"Blockscout","url":"https://explorer.testnet.xprotocol.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Dogcoin Mainnet","network_type":"eip155","chain_id":"1117","symbol":"DOGS","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.dogcoin.me"],"selected_rpc_url":0,"explorers":[{"name":"Dogcoin","url":"https://explorer.dogcoin.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

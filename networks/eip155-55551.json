@@ -1,0 +1,1 @@
+{"name":"Photon Aurora Testnet","network_type":"eip155","chain_id":"55551","symbol":"PTON","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-test2.photonchain.io"],"selected_rpc_url":0,"explorers":[{"name":"photon_testnet2_explorer","url":"https://testnet2.photonchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

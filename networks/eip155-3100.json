@@ -1,0 +1,1 @@
+{"name":"Immu3 EVM","network_type":"eip155","chain_id":"3100","symbol":"IMMU","native_asset":null,"decimals":18,"rpc_urls":["https://fraa-flashbox-2800-rpc.a.stagenet.tanssi.network","wss://fraa-flashbox-2800-rpc.a.stagenet.tanssi.network"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":null}

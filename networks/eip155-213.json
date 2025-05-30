@@ -1,0 +1,1 @@
+{"name":"B2 Hub Mainnet","network_type":"eip155","chain_id":"213","symbol":"B2","native_asset":null,"decimals":18,"rpc_urls":["https://hub-rpc.bsquared.network"],"selected_rpc_url":0,"explorers":[{"name":"B2 Hub Mainnet Explorer","url":"https://hub-explorer.bsquared.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

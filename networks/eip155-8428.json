@@ -1,0 +1,1 @@
+{"name":"THAT Mainnet","network_type":"eip155","chain_id":"8428","symbol":"THAT","native_asset":null,"decimals":18,"rpc_urls":["https://api.thatchain.io","https://api.thatchain.io/mainnet"],"selected_rpc_url":0,"explorers":[{"name":"THAT Explorer","url":"https://that.blockscout.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

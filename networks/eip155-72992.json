@@ -1,0 +1,1 @@
+{"name":"Grok Chain Mainnet","network_type":"eip155","chain_id":"72992","symbol":"GROC","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.grokchain.dev"],"selected_rpc_url":0,"explorers":[{"name":"GrokScan","url":"https://mainnet-explorer.grokchain.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

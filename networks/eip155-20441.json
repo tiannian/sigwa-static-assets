@@ -1,0 +1,1 @@
+{"name":"XUSD ONE StableChain Mainnet","network_type":"eip155","chain_id":"20441","symbol":"X1","native_asset":null,"decimals":18,"rpc_urls":["https://xusd.live"],"selected_rpc_url":0,"explorers":[{"name":"xusdscan","url":"https://xusdscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

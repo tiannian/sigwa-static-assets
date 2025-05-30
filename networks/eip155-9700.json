@@ -1,0 +1,1 @@
+{"name":"Oort MainnetDev","network_type":"eip155","chain_id":"9700","symbol":"OORT","native_asset":null,"decimals":18,"rpc_urls":["https://dev-rpc.oortech.com"],"selected_rpc_url":0,"explorers":[{"name":"Oort MainnetDev Scan","url":"https://dev-scan.oortech.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Digit Soul Smart Chain 2","network_type":"eip155","chain_id":"363636","symbol":"DGC","native_asset":null,"decimals":18,"rpc_urls":["https://dgs-rpc.digitsoul.co.th"],"selected_rpc_url":0,"explorers":[{"name":"Digit Soul Explorer","url":"https://dgs-exp.digitsoul.co.th","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

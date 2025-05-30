@@ -1,0 +1,1 @@
+{"name":"DM2 Verse Testnet","network_type":"eip155","chain_id":"68775","symbol":"OAS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.dm2verse.dmm.com"],"selected_rpc_url":0,"explorers":[{"name":"DM2Verse Testnet Explorer","url":"https://explorer.testnet.dm2verse.dmm.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

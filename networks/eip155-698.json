@@ -1,0 +1,1 @@
+{"name":"Matchain","network_type":"eip155","chain_id":"698","symbol":"BNB","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.matchain.io","https://rpc.ankr.com/matchain_mainnet"],"selected_rpc_url":0,"explorers":[{"name":"Matchscan","url":"https://matchscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":714,"icon":null}

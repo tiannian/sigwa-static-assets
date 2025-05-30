@@ -1,0 +1,1 @@
+{"name":"Fidesinnova","network_type":"eip155","chain_id":"706883","symbol":"FDS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc1.fidesinnova.io"],"selected_rpc_url":0,"explorers":[{"name":"Fidesinnova Blockchain Explorer","url":"https://explorer.fidesinnova.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

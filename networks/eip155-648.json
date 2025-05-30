@@ -1,0 +1,1 @@
+{"name":"Endurance Smart Chain Mainnet","network_type":"eip155","chain_id":"648","symbol":"ACE","native_asset":"endurance","decimals":18,"rpc_urls":["https://rpc-endurance.fusionist.io"],"selected_rpc_url":0,"explorers":[{"name":"Endurance Scan","url":"https://explorer.endurance.fusionist.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-648.png"}

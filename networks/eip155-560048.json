@@ -1,0 +1,1 @@
+{"name":"Ethereum Hoodi","network_type":"eip155","chain_id":"560048","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.hoodi.ethpandaops.io","https://0xrpc.io/hoodi","wss://0xrpc.io/hoodi"],"selected_rpc_url":0,"explorers":[{"name":"dora","url":"https://light-hoodi.beaconcha.in","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

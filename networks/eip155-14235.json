@@ -1,0 +1,1 @@
+{"name":"Bitlazer","network_type":"eip155","chain_id":"14235","symbol":"lzrBTC","native_asset":null,"decimals":18,"rpc_urls":["https://bitlazer.calderachain.xyz/http"],"selected_rpc_url":0,"explorers":[{"name":"Bitlazer Caldera Explorer","url":"https://bitlazer.calderaexplorer.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

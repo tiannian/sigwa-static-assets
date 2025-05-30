@@ -1,0 +1,1 @@
+{"name":"Tangle","network_type":"eip155","chain_id":"5845","symbol":"TNT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.tangle.tools","wss://rpc.tangle.tools"],"selected_rpc_url":0,"explorers":[{"name":"Tangle EVM Explorer","url":"https://explorer.tangle.tools","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Wadzchain Testnet","network_type":"eip155","chain_id":"71117","symbol":"WCO","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.wadzchain.io"],"selected_rpc_url":0,"explorers":[{"name":"Wadzchain Testnet Explorer","url":"https://scan-testnet.wadzchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

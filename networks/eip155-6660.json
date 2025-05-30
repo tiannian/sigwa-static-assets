@@ -1,0 +1,1 @@
+{"name":"Latest Chain Testnet","network_type":"eip155","chain_id":"6660","symbol":"LATEST","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.latestcoin.io"],"selected_rpc_url":0,"explorers":[{"name":"Latest Chain","url":"http://testnet.latestchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

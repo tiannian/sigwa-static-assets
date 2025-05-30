@@ -1,0 +1,1 @@
+{"name":"LemonChainTestnet","network_type":"eip155","chain_id":"1005","symbol":"tLEMX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.lemonchain.io","https://rpc.testnet.allthingslemon.io"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":null}

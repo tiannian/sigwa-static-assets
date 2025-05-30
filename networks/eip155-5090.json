@@ -1,0 +1,1 @@
+{"name":"Pione Chain Mainnet","network_type":"eip155","chain_id":"5090","symbol":"PIO","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.pionescan.com"],"selected_rpc_url":0,"explorers":[{"name":"Pione Chain Explorer","url":"https://pionescan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Step Network","network_type":"eip155","chain_id":"1234","symbol":"FITFI","native_asset":"stepex","decimals":18,"rpc_urls":["https://rpc.step.network"],"selected_rpc_url":0,"explorers":[{"name":"StepScan","url":"https://stepscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-1234.png"}

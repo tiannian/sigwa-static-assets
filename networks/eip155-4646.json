@@ -1,0 +1,1 @@
+{"name":"MST Chain","network_type":"eip155","chain_id":"4646","symbol":"MST","native_asset":null,"decimals":18,"rpc_urls":["https://mariorpc.mstblockchain.com","https://craftrpc.mstblockchain.com"],"selected_rpc_url":0,"explorers":[{"name":"MST Mainnet Scan","url":"https://mstscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":4646,"icon":null}

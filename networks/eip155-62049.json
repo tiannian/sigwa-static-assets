@@ -1,0 +1,1 @@
+{"name":"OPTOPIA Testnet","network_type":"eip155","chain_id":"62049","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.optopia.ai"],"selected_rpc_url":0,"explorers":[{"name":"optopia-testnet-scan","url":"https://scan-testnet.optopia.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Aves Mainnet","network_type":"eip155","chain_id":"33333","symbol":"AVS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.avescoin.io"],"selected_rpc_url":0,"explorers":[{"name":"avescan","url":"https://avescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

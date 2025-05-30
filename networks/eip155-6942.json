@@ -1,0 +1,1 @@
+{"name":"Laika Mainnet","network_type":"eip155","chain_id":"6942","symbol":"DOGE","native_asset":"laikachain","decimals":18,"rpc_urls":["https://mainnetrpc.laikachain.dog"],"selected_rpc_url":0,"explorers":[{"name":"Laika Mainnet Explorer","url":"https://explorer.laikachain.dog","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-6942.png"}

@@ -1,0 +1,1 @@
+{"name":"Fusion Testnet","network_type":"eip155","chain_id":"46688","symbol":"T-FSN","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.fusionnetwork.io","wss://testnet.fusionnetwork.io"],"selected_rpc_url":0,"explorers":[{"name":"fsnscan","url":"https://testnet.fsnscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

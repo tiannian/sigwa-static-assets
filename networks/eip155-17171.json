@@ -1,0 +1,1 @@
+{"name":"G8Chain Mainnet","network_type":"eip155","chain_id":"17171","symbol":"G8C","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.oneg8.network"],"selected_rpc_url":0,"explorers":[{"name":"G8Chain","url":"https://mainnet.oneg8.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

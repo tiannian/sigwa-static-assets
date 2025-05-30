@@ -1,0 +1,1 @@
+{"name":"Excoincial Chain Volta-Testnet","network_type":"eip155","chain_id":"27082017","symbol":"TEXL","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.exlscan.com"],"selected_rpc_url":0,"explorers":[{"name":"exlscan","url":"https://testnet-explorer.exlscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

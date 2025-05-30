@@ -1,0 +1,1 @@
+{"name":"Blast Testnet","network_type":"eip155","chain_id":"23888","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["http://testnet-rpc.blastblockchain.com"],"selected_rpc_url":0,"explorers":[{"name":"Blast Testnet","url":"http://testnet-explorer.blastblockchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

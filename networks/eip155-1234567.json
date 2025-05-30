@@ -1,0 +1,1 @@
+{"name":"Sharecle Mainnet","network_type":"eip155","chain_id":"1234567","symbol":"SHR","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.sharecle.com"],"selected_rpc_url":0,"explorers":[{"name":"Etherscan","url":"https://etherscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

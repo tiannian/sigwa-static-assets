@@ -1,0 +1,1 @@
+{"name":"qChain Mainnet","network_type":"eip155","chain_id":"30000","symbol":"QCO","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.qchain.kr"],"selected_rpc_url":0,"explorers":[{"name":"qChain explorer","url":"https://scan.qchain.kr","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

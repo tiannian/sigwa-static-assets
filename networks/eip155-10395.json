@@ -1,0 +1,1 @@
+{"name":"WorldLand Testnet","network_type":"eip155","chain_id":"10395","symbol":"WLC","native_asset":null,"decimals":18,"rpc_urls":["https://gwangju.worldland.foundation"],"selected_rpc_url":0,"explorers":[{"name":"Worldland Explorer","url":"https://testscan.worldland.foundation","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

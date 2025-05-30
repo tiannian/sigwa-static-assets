@@ -1,0 +1,1 @@
+{"name":"BOAT Mainnet","network_type":"eip155","chain_id":"8047","symbol":"BOAT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc0.come.boat"],"selected_rpc_url":0,"explorers":[{"name":"BOAT Mainnet Explorer","url":"https://scan.come.boats","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

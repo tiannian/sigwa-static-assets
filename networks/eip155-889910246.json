@@ -1,0 +1,1 @@
+{"name":"PTCESCAN Mainnet","network_type":"eip155","chain_id":"889910246","symbol":"PTCE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.ptcscan.io"],"selected_rpc_url":0,"explorers":[{"name":"PTCESCAN Explorer","url":"https://ptcscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

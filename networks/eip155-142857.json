@@ -1,0 +1,1 @@
+{"name":"ICPlaza Mainnet","network_type":"eip155","chain_id":"142857","symbol":"ict","native_asset":null,"decimals":18,"rpc_urls":["https://rpc1.icplaza.pro","https://rpcmainnet.ic-plaza.org"],"selected_rpc_url":0,"explorers":[{"name":"ICPlaza","url":"https://browsemainnet.ic-plaza.org/index","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

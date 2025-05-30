@@ -1,0 +1,1 @@
+{"name":"L3X Protocol Testnet","network_type":"eip155","chain_id":"12325","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.l3x.com"],"selected_rpc_url":0,"explorers":[{"name":"L3X Testnet Explorer","url":"https://explorer-testnet.l3x.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

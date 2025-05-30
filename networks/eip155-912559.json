@@ -1,0 +1,1 @@
+{"name":"Astria EVM Dusknet","network_type":"eip155","chain_id":"912559","symbol":"RIA","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.evm.dusk-3.devnet.astria.org"],"selected_rpc_url":0,"explorers":[{"name":"Astria EVM Dusknet Explorer","url":"https://explorer.evm.dusk-3.devnet.astria.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

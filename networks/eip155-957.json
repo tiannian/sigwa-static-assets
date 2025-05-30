@@ -1,0 +1,1 @@
+{"name":"Lyra Chain","network_type":"eip155","chain_id":"957","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.lyra.finance"],"selected_rpc_url":0,"explorers":[{"name":"Lyra Explorer","url":"https://explorer.lyra.finance","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

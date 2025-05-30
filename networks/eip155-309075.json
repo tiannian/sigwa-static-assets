@@ -1,0 +1,1 @@
+{"name":"One World Chain Mainnet","network_type":"eip155","chain_id":"309075","symbol":"OWCT","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.oneworldchain.org"],"selected_rpc_url":0,"explorers":[{"name":"One World Chain Mainnet Explorer","url":"https://mainnet.oneworldchain.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

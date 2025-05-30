@@ -1,0 +1,1 @@
+{"name":"SX Toronto Rollup","network_type":"eip155","chain_id":"79479957","symbol":"SX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.sx-rollup-testnet.t.raas.gelato.cloud"],"selected_rpc_url":0,"explorers":[{"name":"SX Toronto L2 Explorer","url":"https://explorerl2.toronto.sx.technology","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

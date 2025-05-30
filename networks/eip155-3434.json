@@ -1,0 +1,1 @@
+{"name":"SecureChain Testnet","network_type":"eip155","chain_id":"3434","symbol":"SCAI","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.securechain.ai"],"selected_rpc_url":0,"explorers":[{"name":"SecureChain","url":"https://testnet.securechain.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

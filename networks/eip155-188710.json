@@ -1,0 +1,1 @@
+{"name":"Bitica Chain Mainnet","network_type":"eip155","chain_id":"188710","symbol":"BDCC","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.biticablockchain.com"],"selected_rpc_url":0,"explorers":[{"name":"Bitica DPOS Blockchain Explorer","url":"https://biticablockchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

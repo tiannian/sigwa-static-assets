@@ -1,0 +1,1 @@
+{"name":"Wyzth Testnet","network_type":"eip155","chain_id":"309","symbol":"WYZ","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet3.wyzthchain.org"],"selected_rpc_url":0,"explorers":[{"name":"wyzth","url":"http://24.199.108.65:4000","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

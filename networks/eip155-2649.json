@@ -1,0 +1,1 @@
+{"name":"AILayer Mainnet","network_type":"eip155","chain_id":"2649","symbol":"BTC","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.ailayer.xyz","wss://mainnet-rpc.ailayer.xyz"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://mainnet-explorer.ailayer.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

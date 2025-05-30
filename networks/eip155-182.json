@@ -1,0 +1,1 @@
+{"name":"IOST Mainnet","network_type":"eip155","chain_id":"182","symbol":"BNB","native_asset":null,"decimals":18,"rpc_urls":["https://l2-mainnet.iost.io","wss://l2-mainnet.iost.io"],"selected_rpc_url":0,"explorers":[{"name":"IOSTscan","url":"https://l2-scan.iost.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":714,"icon":null}

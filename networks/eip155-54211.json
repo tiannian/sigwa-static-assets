@@ -1,0 +1,1 @@
+{"name":"Haqq Chain Testnet","network_type":"eip155","chain_id":"54211","symbol":"ISLMT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.eth.testedge2.haqq.network"],"selected_rpc_url":0,"explorers":[{"name":"TestEdge HAQQ Explorer","url":"https://explorer.testedge2.haqq.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

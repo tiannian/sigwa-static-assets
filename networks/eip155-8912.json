@@ -1,0 +1,1 @@
+{"name":"Algen Testnet","network_type":"eip155","chain_id":"8912","symbol":"ALG","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.test.algen.network"],"selected_rpc_url":0,"explorers":[{"name":"algscan","url":"https://scan.test.algen.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

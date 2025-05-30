@@ -1,0 +1,1 @@
+{"name":"NumBlock Chain","network_type":"eip155","chain_id":"5112023","symbol":"NUMB","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-mainnet.numblock.org"],"selected_rpc_url":0,"explorers":[{"name":"NumBlock Explorer","url":"https://mainnet.numblock.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

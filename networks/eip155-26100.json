@@ -1,0 +1,1 @@
+{"name":"Ferrum Quantum Portal Network","network_type":"eip155","chain_id":"26100","symbol":"qpFRM","native_asset":null,"decimals":18,"rpc_urls":["https://qpn.svcs.ferrumnetwork.io"],"selected_rpc_url":0,"explorers":[{"name":"ferrumscout","url":"https://explorer.ferrumnetwork.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

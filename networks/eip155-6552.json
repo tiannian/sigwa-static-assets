@@ -1,0 +1,1 @@
+{"name":"Scolcoin WeiChain Testnet","network_type":"eip155","chain_id":"6552","symbol":"SCOL","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.scolcoin.com"],"selected_rpc_url":0,"explorers":[{"name":"Scolscan Testnet Explorer","url":"https://testnet-explorer.scolcoin.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"CrossFi Mainnet","network_type":"eip155","chain_id":"4158","symbol":"XFI","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.mainnet.ms"],"selected_rpc_url":0,"explorers":[{"name":"CrossFi Mainnet Scan","url":"https://xfiscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Titan","network_type":"eip155","chain_id":"55004","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.titan.tokamak.network","wss://rpc.titan.tokamak.network"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://explorer.titan.tokamak.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

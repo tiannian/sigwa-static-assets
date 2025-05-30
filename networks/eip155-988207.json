@@ -1,0 +1,1 @@
+{"name":"Ecrox Chain Mainnet","network_type":"eip155","chain_id":"988207","symbol":"ECROX","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.ecroxscan.com"],"selected_rpc_url":0,"explorers":[{"name":"Ecrox Chain Explorer","url":"https://ecroxscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"MainnetZ Mainnet","network_type":"eip155","chain_id":"2016","symbol":"NetZ","native_asset":"mainnetz","decimals":18,"rpc_urls":["https://eu-rpc.mainnetz.io","https://mainnet-rpc.mainnetz.io"],"selected_rpc_url":0,"explorers":[{"name":"MainnetZ","url":"https://explorer.mainnetz.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-2016.png"}

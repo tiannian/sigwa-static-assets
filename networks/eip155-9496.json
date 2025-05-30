@@ -1,0 +1,1 @@
+{"name":"Load Alphanet","network_type":"eip155","chain_id":"9496","symbol":"tLOAD","native_asset":null,"decimals":18,"rpc_urls":["https://alphanet.load.network"],"selected_rpc_url":0,"explorers":[{"name":"Load Network Explorer","url":"https://explorer.load.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

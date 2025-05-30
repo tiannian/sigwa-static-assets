@@ -1,0 +1,1 @@
+{"name":"Double-A Chain Mainnet","network_type":"eip155","chain_id":"512","symbol":"AAC","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.acuteangle.com"],"selected_rpc_url":0,"explorers":[{"name":"aacscan","url":"https://scan.acuteangle.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1512,"icon":null}

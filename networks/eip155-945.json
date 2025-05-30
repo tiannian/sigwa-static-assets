@@ -1,0 +1,1 @@
+{"name":"Subtensor EVM Testnet","network_type":"eip155","chain_id":"945","symbol":"TAO","native_asset":null,"decimals":18,"rpc_urls":["https://test.chain.opentensor.ai"],"selected_rpc_url":0,"explorers":[{"name":"Subtensor EVM Explorer","url":"https://evm-testscan.dev.opentensor.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1005,"icon":null}

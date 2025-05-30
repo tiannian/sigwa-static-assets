@@ -1,0 +1,1 @@
+{"name":"Forma","network_type":"eip155","chain_id":"984122","symbol":"TIA","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.forma.art"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://explorer.forma.art","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

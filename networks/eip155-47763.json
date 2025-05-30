@@ -1,0 +1,1 @@
+{"name":"Neo X Mainnet","network_type":"eip155","chain_id":"47763","symbol":"GAS","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-1.rpc.banelabs.org","https://mainnet-2.rpc.banelabs.org"],"selected_rpc_url":0,"explorers":[{"name":"Neo X - Explorer","url":"https://xexplorer.neo.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

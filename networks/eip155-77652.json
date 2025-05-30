@@ -1,0 +1,1 @@
+{"name":"Carrchain Testnet","network_type":"eip155","chain_id":"77652","symbol":"CARR","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnetcarrchain.artiffine.com"],"selected_rpc_url":0,"explorers":[{"name":"tracehawk","url":"https://explorer-testnetcarrchain.artiffine.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

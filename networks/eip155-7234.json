@@ -1,0 +1,1 @@
+{"name":"InitVerse genesis testnet","network_type":"eip155","chain_id":"7234","symbol":"INI","native_asset":null,"decimals":18,"rpc_urls":["http://rpc-testnet.inichain.com"],"selected_rpc_url":0,"explorers":[{"name":"initverse","url":"https://genesis-testnet.iniscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

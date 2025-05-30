@@ -1,0 +1,1 @@
+{"name":"TOOL Global Mainnet","network_type":"eip155","chain_id":"8723","symbol":"OLO","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-web3.wolot.io"],"selected_rpc_url":0,"explorers":[{"name":"OLO Block Explorer","url":"https://www.olo.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":479,"icon":null}

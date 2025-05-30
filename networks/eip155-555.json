@@ -1,0 +1,1 @@
+{"name":"Vela1 Chain Mainnet","network_type":"eip155","chain_id":"555","symbol":"CLASS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.velaverse.io"],"selected_rpc_url":0,"explorers":[{"name":"Vela1 Chain Mainnet Explorer","url":"https://exp.velaverse.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

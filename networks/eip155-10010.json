@@ -1,0 +1,1 @@
+{"name":"Warden Testnet","network_type":"eip155","chain_id":"10010","symbol":"WARD","native_asset":null,"decimals":18,"rpc_urls":["https://evm.chiado.wardenprotocol.org","wss://evm-ws.chiado.wardenprotocol.org"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":null}

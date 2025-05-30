@@ -1,0 +1,1 @@
+{"name":"PTCESCAN Testnet","network_type":"eip155","chain_id":"889910245","symbol":"PTCE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.ptcscan.io"],"selected_rpc_url":0,"explorers":[{"name":"PTCESCAN Testnet Explorer","url":"https://explorer-testnet.ptcscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

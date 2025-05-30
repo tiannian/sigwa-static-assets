@@ -1,0 +1,1 @@
+{"name":"Kii Testnet Oro","network_type":"eip155","chain_id":"1336","symbol":"KII","native_asset":null,"decimals":18,"rpc_urls":["https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com"],"selected_rpc_url":0,"explorers":[{"name":"KiiExplorer","url":"https://explorer.kiichain.io/testnet","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

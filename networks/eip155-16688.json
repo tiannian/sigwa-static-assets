@@ -1,0 +1,1 @@
+{"name":"IRIShub Testnet","network_type":"eip155","chain_id":"16688","symbol":"ERIS","native_asset":null,"decimals":18,"rpc_urls":["https://evmrpc.nyancat.irisnet.org"],"selected_rpc_url":0,"explorers":[{"name":"IRISHub Testnet Cosmos Explorer (IOBScan)","url":"https://nyancat.iobscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

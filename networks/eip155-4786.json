@@ -1,0 +1,1 @@
+{"name":"Evnode Testnet","network_type":"eip155","chain_id":"4786","symbol":"tEVO","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-testnet.evnode.org"],"selected_rpc_url":0,"explorers":[{"name":"Evnode Explorer Testnet","url":"https://testnet.evscan.net","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

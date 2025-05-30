@@ -1,0 +1,1 @@
+{"name":"Guru Network Testnet","network_type":"eip155","chain_id":"261","symbol":"tGURU","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-test.gurunetwork.ai"],"selected_rpc_url":0,"explorers":[{"name":"guruscan","url":"https://sepolia.gurunetwork.ai","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

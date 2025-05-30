@@ -1,0 +1,1 @@
+{"name":"Humanode Mainnet","network_type":"eip155","chain_id":"5234","symbol":"eHMND","native_asset":null,"decimals":18,"rpc_urls":["https://explorer-rpc-http.mainnet.stages.humanode.io"],"selected_rpc_url":0,"explorers":[{"name":"Subscan","url":"https://humanode.subscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

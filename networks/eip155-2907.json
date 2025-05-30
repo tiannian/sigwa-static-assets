@@ -1,0 +1,1 @@
+{"name":"Elux Chain","network_type":"eip155","chain_id":"2907","symbol":"ELUX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.eluxscan.com"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://eluxscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

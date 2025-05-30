@@ -1,0 +1,1 @@
+{"name":"Trust EVM Testnet","network_type":"eip155","chain_id":"15555","symbol":"EVM","native_asset":null,"decimals":18,"rpc_urls":["https://api.testnet-dev.trust.one"],"selected_rpc_url":0,"explorers":[{"name":"Trust EVM Explorer","url":"https://trustscan.one","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"Forta Chain","network_type":"eip155","chain_id":"80931","symbol":"FORT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-forta-chain-8gj1qndmfc.t.conduit.xyz"],"selected_rpc_url":0,"explorers":[{"name":"Forta Chain Explorer","url":"https://explorer.forta.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

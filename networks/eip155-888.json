@@ -1,0 +1,1 @@
+{"name":"Wanchain","network_type":"eip155","chain_id":"888","symbol":"WAN","native_asset":"wanchain","decimals":18,"rpc_urls":["https://gwan-ssl.wandevs.org:56891","https://gwan2-ssl.wandevs.org"],"selected_rpc_url":0,"explorers":[{"name":"wanscan","url":"https://wanscan.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":5718350,"icon":"eip155-888.png"}

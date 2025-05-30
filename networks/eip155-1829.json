@@ -1,0 +1,1 @@
+{"name":"PlayBlock","network_type":"eip155","chain_id":"1829","symbol":"PBG","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.playblock.io","wss://ws.playblock.io"],"selected_rpc_url":0,"explorers":[{"name":"PlayBlock","url":"https://explorer.playblock.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":60,"icon":null}

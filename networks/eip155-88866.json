@@ -1,0 +1,1 @@
+{"name":"Matr1x Testnet","network_type":"eip155","chain_id":"88866","symbol":"MAX","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.m1chain.io"],"selected_rpc_url":0,"explorers":[{"name":"matr1x testnet","url":"https://testnet-scan.m1chain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

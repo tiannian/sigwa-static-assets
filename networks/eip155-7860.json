@@ -1,0 +1,1 @@
+{"name":"MaalChain Testnet","network_type":"eip155","chain_id":"7860","symbol":"MAAL","native_asset":null,"decimals":18,"rpc_urls":["https://node1.maalscan.io","https://rpc-bntest.maalscan.io"],"selected_rpc_url":0,"explorers":[{"name":"maalscan testnet","url":"https://testnet.maalscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

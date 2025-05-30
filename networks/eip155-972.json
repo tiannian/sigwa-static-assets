@@ -1,0 +1,1 @@
+{"name":"Oort Ascraeus","network_type":"eip155","chain_id":"972","symbol":"CCNA","native_asset":null,"decimals":18,"rpc_urls":["https://ascraeus-rpc.oortech.com"],"selected_rpc_url":0,"explorers":[{"name":"Oort Ascraeus Explorer","url":"https://ascraeus-scan.oortech.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

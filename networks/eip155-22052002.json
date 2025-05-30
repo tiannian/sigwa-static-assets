@@ -1,0 +1,1 @@
+{"name":"Excelon Mainnet","network_type":"eip155","chain_id":"22052002","symbol":"xlon","native_asset":null,"decimals":18,"rpc_urls":["https://edgewallet1.xlon.org"],"selected_rpc_url":0,"explorers":[{"name":"Excelon explorer","url":"https://explorer.excelon.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

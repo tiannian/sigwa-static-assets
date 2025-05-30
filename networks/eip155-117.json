@@ -1,0 +1,1 @@
+{"name":"Uptick Mainnet","network_type":"eip155","chain_id":"117","symbol":"UPTICK","native_asset":null,"decimals":18,"rpc_urls":["https://json-rpc.uptick.network"],"selected_rpc_url":0,"explorers":[{"name":"Uptick Explorer","url":"https://evm-explorer.uptick.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

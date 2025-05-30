@@ -1,0 +1,1 @@
+{"name":"Frame Testnet","network_type":"eip155","chain_id":"68840142","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.testnet.frame.xyz/http"],"selected_rpc_url":0,"explorers":[{"name":"Frame Testnet Explorer","url":"https://explorer.testnet.frame.xyz","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

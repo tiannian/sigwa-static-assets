@@ -1,0 +1,1 @@
+{"name":"Nexa MetaNet","network_type":"eip155","chain_id":"29223","symbol":"NEXA","native_asset":null,"decimals":18,"rpc_urls":["https://nexa.sh/metanet"],"selected_rpc_url":0,"explorers":[{"name":"NexaShell","url":"https://nexa.sh","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":29223,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"UXLINK One Testnet","network_type":"eip155","chain_id":"7181","symbol":"UXLINK","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-sepolia.uxlinkone.com"],"selected_rpc_url":0,"explorers":[{"name":"UXLINK One Sepolia Explorer","url":"https://sepolia.uxlinkone.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

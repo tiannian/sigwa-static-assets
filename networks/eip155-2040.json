@@ -1,0 +1,1 @@
+{"name":"Vanar Mainnet","network_type":"eip155","chain_id":"2040","symbol":"VANRY","native_asset":"vanar-chain","decimals":18,"rpc_urls":["https://rpc.vanarchain.com","wss://ws.vanarchain.com"],"selected_rpc_url":0,"explorers":[{"name":"Vanar Explorer","url":"https://explorer.vanarchain.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-2040.png"}

@@ -1,0 +1,1 @@
+{"name":"Larissa Chain","network_type":"eip155","chain_id":"9898","symbol":"LRS","native_asset":"larissa-blockchain","decimals":18,"rpc_urls":["https://rpc.larissa.network"],"selected_rpc_url":0,"explorers":[{"name":"Larissa Scan","url":"https://scan.larissa.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":9898,"icon":"eip155-9898.png"}

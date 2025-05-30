@@ -1,0 +1,1 @@
+{"name":"Saakuru Mainnet","network_type":"eip155","chain_id":"7225878","symbol":"OAS","native_asset":"wrapped-oasys","decimals":18,"rpc_urls":["https://rpc.saakuru.network"],"selected_rpc_url":0,"explorers":[{"name":"saakuru-explorer","url":"https://explorer.saakuru.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-7225878.png"}

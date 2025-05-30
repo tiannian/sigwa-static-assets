@@ -1,0 +1,1 @@
+{"name":"Kintsugi","network_type":"eip155","chain_id":"1337702","symbol":"kiETH","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.kintsugi.themerge.dev"],"selected_rpc_url":0,"explorers":[{"name":"kintsugi explorer","url":"https://explorer.kintsugi.themerge.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"LiquidLayer Mainnet","network_type":"eip155","chain_id":"25186","symbol":"LILA","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.liquidlayer.network"],"selected_rpc_url":0,"explorers":[{"name":"LiquidLayer Mainnet Explorer","url":"https://scan.liquidlayer.network","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

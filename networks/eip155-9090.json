@@ -1,0 +1,1 @@
+{"name":"Inco Gentry Testnet","network_type":"eip155","chain_id":"9090","symbol":"INCO","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.inco.org"],"selected_rpc_url":0,"explorers":[{"name":"Inco Gentry Testnet Explorer","url":"https://explorer.testnet.inco.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

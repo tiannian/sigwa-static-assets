@@ -1,0 +1,1 @@
+{"name":"EthStorage L2 Mainnet","network_type":"eip155","chain_id":"3332","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["http://mainnet.l2.ethstorage.io:9540"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":1,"icon":null}

@@ -1,0 +1,1 @@
+{"name":"DoKEN Super Chain Mainnet","network_type":"eip155","chain_id":"61916","symbol":"DKN","native_asset":null,"decimals":18,"rpc_urls":["https://sgrpc.doken.dev","https://nyrpc.doken.dev","https://ukrpc.doken.dev"],"selected_rpc_url":0,"explorers":[{"name":"DSC Scan","url":"https://explore.doken.dev","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

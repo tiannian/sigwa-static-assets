@@ -1,0 +1,1 @@
+{"name":"OpenVessel","network_type":"eip155","chain_id":"7355310","symbol":"VETH","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-external.openvessel.io"],"selected_rpc_url":0,"explorers":[{"name":"openvessel-mainnet","url":"https://mainnet-explorer.openvessel.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

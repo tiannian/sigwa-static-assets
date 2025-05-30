@@ -1,0 +1,1 @@
+{"name":"Janction Testnet","network_type":"eip155","chain_id":"679","symbol":"JCT","native_asset":null,"decimals":18,"rpc_urls":["https://rpc_testnet.janction.io","wss://rpc_testnet.janction.io"],"selected_rpc_url":0,"explorers":[],"selected_explorer":0,"slip44":0,"icon":null}

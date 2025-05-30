@@ -1,0 +1,1 @@
+{"name":"Phoenix Mainnet","network_type":"eip155","chain_id":"13381","symbol":"PHX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.phoenixplorer.com"],"selected_rpc_url":0,"explorers":[{"name":"phoenixplorer","url":"https://phoenixplorer.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

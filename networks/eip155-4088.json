@@ -1,0 +1,1 @@
+{"name":"Zeroth Mainnet","network_type":"eip155","chain_id":"4088","symbol":"ZRH","native_asset":null,"decimals":18,"rpc_urls":["https://my.zeroth.run"],"selected_rpc_url":0,"explorers":[{"name":"Zeroth Explorer","url":"https://scan.zeroth.run","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

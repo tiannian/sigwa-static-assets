@@ -1,0 +1,1 @@
+{"name":"iSunCoin Mainnet","network_type":"eip155","chain_id":"8017","symbol":"ISC","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.isuncoin.com"],"selected_rpc_url":0,"explorers":[{"name":"iSunCoin Explorer","url":"https://baifa.io/app/chains/8017","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":8017,"icon":null}

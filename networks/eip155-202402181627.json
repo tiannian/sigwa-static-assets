@@ -1,0 +1,1 @@
+{"name":"GM Network Testnet","network_type":"eip155","chain_id":"202402181627","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://gmnetwork-testnet.alt.technology"],"selected_rpc_url":0,"explorers":[{"name":"gmnetwork-testnet","url":"https://gmnetwork-testnet-explorer.alt.technology","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

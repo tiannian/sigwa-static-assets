@@ -1,0 +1,1 @@
+{"name":"Nexis Network Testnet","network_type":"eip155","chain_id":"2370","symbol":"NZT","native_asset":null,"decimals":18,"rpc_urls":["https://evm-testnet.nexis.network"],"selected_rpc_url":0,"explorers":[{"name":"Nexis Testnet Explorer","url":"https://evm-testnet.nexscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

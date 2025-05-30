@@ -1,0 +1,1 @@
+{"name":"AmStar Mainnet","network_type":"eip155","chain_id":"1388","symbol":"SINSO","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet-rpc.amstarscan.com"],"selected_rpc_url":0,"explorers":[{"name":"amstarscan","url":"https://mainnet.amstarscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

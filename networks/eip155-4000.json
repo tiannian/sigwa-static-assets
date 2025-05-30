@@ -1,0 +1,1 @@
+{"name":"Ozone Chain Mainnet","network_type":"eip155","chain_id":"4000","symbol":"OZO","native_asset":null,"decimals":18,"rpc_urls":["https://node1.ozonechain.io"],"selected_rpc_url":0,"explorers":[{"name":"OZONE Scan","url":"https://ozonescan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

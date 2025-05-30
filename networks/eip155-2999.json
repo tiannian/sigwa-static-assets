@@ -1,0 +1,1 @@
+{"name":"BitYuan Mainnet","network_type":"eip155","chain_id":"2999","symbol":"BTY","native_asset":null,"decimals":18,"rpc_urls":["https://mainnet.bityuan.com/eth"],"selected_rpc_url":0,"explorers":[{"name":"BitYuan Block Chain Explorer","url":"https://mainnet.bityuan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

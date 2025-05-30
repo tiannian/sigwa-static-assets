@@ -1,0 +1,1 @@
+{"name":"QL1","network_type":"eip155","chain_id":"766","symbol":"QOM","native_asset":"wrapped-qom","decimals":18,"rpc_urls":["https://rpc.qom.one"],"selected_rpc_url":0,"explorers":[{"name":"QL1 Mainnet Explorer","url":"https://scan.qom.one","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":"eip155-766.png"}

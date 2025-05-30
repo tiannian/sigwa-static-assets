@@ -1,0 +1,1 @@
+{"name":"Gitshock Cartenz Testnet","network_type":"eip155","chain_id":"1881","symbol":"tGTFX","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.cartenz.works"],"selected_rpc_url":0,"explorers":[{"name":"blockscout","url":"https://scan.cartenz.works","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

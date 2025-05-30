@@ -1,0 +1,1 @@
+{"name":"The Ting Blockchain Testnet Explorer","network_type":"eip155","chain_id":"6666689","symbol":"Ton","native_asset":null,"decimals":18,"rpc_urls":["https://testnet.tingchain.org","https://public.0xrpc.com/6666689"],"selected_rpc_url":0,"explorers":[{"name":"TingScan","url":"https://tingscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

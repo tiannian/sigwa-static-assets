@@ -1,0 +1,1 @@
+{"name":"Janus Testnet","network_type":"eip155","chain_id":"66988","symbol":"JNS","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.test.janusnetwork.io"],"selected_rpc_url":0,"explorers":[{"name":"JanusNetwork Testnet Explorer","url":"https://beta.scan.janusnetwork.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

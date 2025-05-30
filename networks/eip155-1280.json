@@ -1,0 +1,1 @@
+{"name":"HALO Mainnet","network_type":"eip155","chain_id":"1280","symbol":"HO","native_asset":null,"decimals":18,"rpc_urls":["https://nodes.halo.land"],"selected_rpc_url":0,"explorers":[{"name":"HALOexplorer","url":"https://browser.halo.land","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

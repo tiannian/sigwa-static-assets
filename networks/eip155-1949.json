@@ -1,0 +1,1 @@
+{"name":"Bionix Testnet","network_type":"eip155","chain_id":"1949","symbol":"tBIO","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-chain.bionixnetwork.com"],"selected_rpc_url":0,"explorers":[{"name":"Bionix Testnet Explorer","url":"https://testnet.bionixnetwork.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

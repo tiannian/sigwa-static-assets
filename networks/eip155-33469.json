@@ -1,0 +1,1 @@
+{"name":"Zilliqa 2 EVM devnet","network_type":"eip155","chain_id":"33469","symbol":"ZIL","native_asset":null,"decimals":18,"rpc_urls":["https://api.zq2-devnet.zilliqa.com"],"selected_rpc_url":0,"explorers":[{"name":"Zilliqa-2 EVM Devnet Explorer","url":"https://explorer.zq2-devnet.zilliqa.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

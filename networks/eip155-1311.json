@@ -1,0 +1,1 @@
+{"name":"Dos Fuji Subnet","network_type":"eip155","chain_id":"1311","symbol":"DOS","native_asset":null,"decimals":18,"rpc_urls":["https://test.doschain.com/jsonrpc"],"selected_rpc_url":0,"explorers":[{"name":"dos-testnet","url":"https://test.doscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

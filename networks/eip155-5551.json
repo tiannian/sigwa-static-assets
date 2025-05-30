@@ -1,0 +1,1 @@
+{"name":"Nahmii 2 Mainnet","network_type":"eip155","chain_id":"5551","symbol":"ETH","native_asset":null,"decimals":18,"rpc_urls":["https://l2.nahmii.io"],"selected_rpc_url":0,"explorers":[{"name":"Nahmii 2 Mainnet Explorer","url":"https://explorer.n2.nahmii.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

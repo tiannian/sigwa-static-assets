@@ -1,0 +1,1 @@
+{"name":"Condrieu","network_type":"eip155","chain_id":"69420","symbol":"CTE","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.condrieu.ethdevops.io:8545"],"selected_rpc_url":0,"explorers":[{"name":"Condrieu explorer","url":"https://explorer.condrieu.ethdevops.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

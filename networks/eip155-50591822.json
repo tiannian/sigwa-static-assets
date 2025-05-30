@@ -1,0 +1,1 @@
+{"name":"Stavanger Public Testnet","network_type":"eip155","chain_id":"50591822","symbol":"POL","native_asset":null,"decimals":18,"rpc_urls":["https://rpc.stavanger.gateway.fm"],"selected_rpc_url":0,"explorers":[{"name":"BlockScout","url":"https://explorer.stavanger.gateway.fm","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

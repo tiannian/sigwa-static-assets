@@ -1,0 +1,1 @@
+{"name":"Pepe Unchained","network_type":"eip155","chain_id":"3409","symbol":"PEPU","native_asset":null,"decimals":18,"rpc_urls":["https://rpc-pepe-unchained-gupg0lo9wf.t.conduit.xyz"],"selected_rpc_url":0,"explorers":[{"name":"pepuscan","url":"https://pepuscan.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

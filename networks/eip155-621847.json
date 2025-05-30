@@ -1,0 +1,1 @@
+{"name":"DJT Testnet","network_type":"eip155","chain_id":"621847","symbol":"DJT","native_asset":null,"decimals":18,"rpc_urls":["https://testnet-rpc.trumpchain.io"],"selected_rpc_url":0,"explorers":[{"name":"DJT Testnet Explorer","url":"https://testnet-explorer.trumpchain.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

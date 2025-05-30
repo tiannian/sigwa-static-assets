@@ -1,0 +1,1 @@
+{"name":"BC Hyper Chain Testnet","network_type":"eip155","chain_id":"6060","symbol":"TVTCN","native_asset":null,"decimals":18,"rpc_urls":["https://rpc01.bchscan.io","https://rpc.bchscan.io"],"selected_rpc_url":0,"explorers":[{"name":"bcexplorer testnet","url":"https://testnet.bchscan.io","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":0,"icon":null}

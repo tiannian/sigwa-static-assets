@@ -1,0 +1,1 @@
+{"name":"Genesis L1 testnet","network_type":"eip155","chain_id":"26","symbol":"L1test","native_asset":null,"decimals":18,"rpc_urls":["https://testrpc.genesisl1.org"],"selected_rpc_url":0,"explorers":[{"name":"Genesis L1 testnet explorer","url":"https://testnet.genesisl1.org","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

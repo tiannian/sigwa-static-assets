@@ -1,0 +1,1 @@
+{"name":"DeBank Sepolia Testnet","network_type":"eip155","chain_id":"20240324","symbol":"USD","native_asset":null,"decimals":18,"rpc_urls":["https://sepolia-rpc.testnet.debank.com"],"selected_rpc_url":0,"explorers":[{"name":"DeBank Chain Explorer","url":"https://sepolia-explorer.testnet.debank.com","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}

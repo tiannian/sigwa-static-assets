@@ -1,0 +1,1 @@
+{"name":"Lumoz Testnet Alpha","network_type":"eip155","chain_id":"51178","symbol":"MOZ","native_asset":null,"decimals":18,"rpc_urls":["https://alpha-us-http-geth.lumoz.org","https://alpha-hk-http-geth.lumoz.org"],"selected_rpc_url":0,"explorers":[{"name":"LumozTestnetInfo","url":"https://lumoz.info","explorer_type":"eip3091"}],"selected_explorer":0,"slip44":1,"icon":null}
